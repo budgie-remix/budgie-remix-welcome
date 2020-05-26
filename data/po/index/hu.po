@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Gyula Szabó <szabo.gyula.krisztian@gmail.com>, 2017
 # Bence László <laszlo.bence.27@gmail.com>, 2017
@@ -71,8 +72,8 @@ msgid "Install Software"
 msgstr "Szoftver telepítése"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Budgie appletek"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

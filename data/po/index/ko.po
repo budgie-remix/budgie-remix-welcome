@@ -1,3 +1,4 @@
+# 
 # Translators:
 # SD SkyKlouD <koongchi135@gmail.com>, 2017
 # 
@@ -68,8 +69,8 @@ msgid "Install Software"
 msgstr "소프트웨어 설치하기"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Budgie 애플릿"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

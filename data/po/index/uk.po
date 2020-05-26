@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Illia Volochii <illia.volochii@gmail.com>, 2018
 # 
@@ -68,8 +69,8 @@ msgid "Install Software"
 msgstr "Встановити ПЗ"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Аплети Budgie"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

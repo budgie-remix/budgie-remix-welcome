@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Sebastian Cygan <sebcyg@gmail.com>, 2018
 # roypen <roypen88@gmail.com>, 2019
@@ -69,8 +70,8 @@ msgid "Install Software"
 msgstr "Zainstaluj oprogramowanie"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Aplety Budgie"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

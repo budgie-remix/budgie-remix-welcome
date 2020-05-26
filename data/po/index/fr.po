@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Emmanuel Hermellin <hermellin@lirmm.fr>, 2017
 # Scott <theatlantis394@gmail.com>, 2017
@@ -73,8 +74,8 @@ msgid "Install Software"
 msgstr "Installer Logiciels"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Applets Budgie"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

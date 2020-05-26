@@ -1,3 +1,4 @@
+# 
 # Translators:
 # mgrn <mgrnqo@gmail.com>, 2018
 # Hsin-Yi Chen <hychen.iim05g@g2.nctu.edu.tw>, 2019
@@ -69,7 +70,7 @@ msgid "Install Software"
 msgstr ""
 
 #: index.html:115
-msgid "Budgie Applets"
+msgid "Budgie Extras"
 msgstr ""
 
 #: index.html:118

@@ -1,74 +1,72 @@
 # 
 # Translators:
-# Wong Fan <wongfan701@gmail.com>, 2017
-# zk, 2018
-# Hanung Prihutomo <linux4hanung@gmail.com>, 2018
+# Quentin PAGÈS, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Budgie Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
-"Last-Translator: Hanung Prihutomo <linux4hanung@gmail.com>, 2018\n"
-"Language-Team: Indonesian (Indonesia) (https://www.transifex.com/ubuntu-budgie/teams/72251/id_ID/)\n"
+"Last-Translator: Quentin PAGÈS, 2020\n"
+"Language-Team: Occitan (post 1500) (https://www.transifex.com/ubuntu-budgie/teams/72251/oc/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: id_ID\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: oc\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Report-Msgid-Bugs-To : you@example.com\n"
 
 #: index.html:14
 msgid "Main Menu"
-msgstr "Menu Utama"
+msgstr "Menú principal"
 
 #: index.html:24
 msgid "Choose an option to discover your new operating system."
-msgstr "Pilih cara untuk lebih mengenal sistem operasi Anda."
+msgstr "Causissètz una opcion per descobrir vòstre novèl sistèma operatiu."
 
 #: index.html:36
 msgid "Introduction"
-msgstr "Perkenalan"
+msgstr "Introduccion"
 
 #: index.html:42
 msgid "Features"
-msgstr "Fitur"
+msgstr "Foncionalitats"
 
 #: index.html:48
 msgid "Getting Started"
-msgstr "Mulai"
+msgstr "Començar"
 
 #: index.html:54
 msgid "Installation Help"
-msgstr "Bantuan Pemasangan"
+msgstr "Ajuda a l’installacion"
 
 #: index.html60, 117
 msgid "Recommendations"
-msgstr "Rekomendasi"
+msgstr "Recomandacions"
 
 #: index.html:78
 msgid "Online Store"
-msgstr "Toko Online"
+msgstr "Botiga en linha"
 
 #: index.html:84
 msgid "Community"
-msgstr "Komunitas"
+msgstr "Comunitat"
 
 #: index.html:90
 msgid "Get Involved"
-msgstr "Ikut Terlibat"
+msgstr "S’implicar"
 
 #: index.html:96
 msgid "Donate"
-msgstr "Donasi"
+msgstr "Far un don"
 
 #: index.html:106
 msgid "Install Now"
-msgstr "Pasang Sekarang"
+msgstr "Installar ara"
 
 #: index.html:113
 msgid "Install Software"
-msgstr "Pasang Perangkat Lunak"
+msgstr "Installar logicials"
 
 #: index.html:115
 msgid "Budgie Extras"
@@ -76,28 +74,28 @@ msgstr ""
 
 #: index.html:118
 msgid "Software Center"
-msgstr "Pusat Perangkat Lunak"
+msgstr "Centre de logicials"
 
 #: index.html:119
 msgid "Snap Apps"
-msgstr "Apl Snap"
+msgstr "Aplicacions Snap"
 
 #: index.html:121
 msgid "Flatpak Apps"
-msgstr "Apl Flatpak"
+msgstr "Aplicacions Flatpak"
 
 #: index.html:128
 msgid "Themes & Layouts"
-msgstr ""
+msgstr "Tèmas e disposicions"
 
 #: index.html:138
 msgid "Get Support:"
-msgstr "Dapatkan Dukungan:"
+msgstr "Obténer d’assisténcia :"
 
 #: index.html:150
 msgid "Facebook Group"
-msgstr "Grup Facebook"
+msgstr "Grop Facebook"
 
 #: index.html:153
 msgid "Facebook Page"
-msgstr "Halaman Facebook"
+msgstr "Pagina Facebook"

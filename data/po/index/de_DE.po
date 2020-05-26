@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Pad Padington <diecolabuechse@gmail.com>, 2017
 # codehoudini, 2017
@@ -72,8 +73,8 @@ msgid "Install Software"
 msgstr "Software installieren"
 
 #: index.html:115
-msgid "Budgie Applets"
-msgstr "Budgie Anwendungen"
+msgid "Budgie Extras"
+msgstr ""
 
 #: index.html:118
 msgid "Software Center"

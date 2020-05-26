@@ -1,157 +1,158 @@
 # 
 # Translators:
-# Nikola Stojic <nikolas@grindam.com>, 2020
+# Tux <tuxpingviini@gmail.com>, 2020
+# Oi Suomi On! <oisuomion@protonmail.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Budgie Welcome\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
 "PO-Revision-Date: 2017-03-15 13:49+0000\n"
-"Last-Translator: Nikola Stojic <nikolas@grindam.com>, 2020\n"
-"Language-Team: Serbian (Serbia) (https://www.transifex.com/ubuntu-budgie/teams/72251/sr_RS/)\n"
+"Last-Translator: Oi Suomi On! <oisuomion@protonmail.com>, 2020\n"
+"Language-Team: Finnish (https://www.transifex.com/ubuntu-budgie/teams/72251/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sr_RS\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Report-Msgid-Bugs-To : you@example.com\n"
 
 #: gettingstarted.html:16
 msgid "Getting Started"
-msgstr "Upoznavanje sa radom"
+msgstr "Alkuunpääsy"
 
 #: gettingstarted.html:23
 msgid "Prerequisites"
-msgstr "Preduslovi"
+msgstr "Ennakkotoimenpiteet"
 
 #: gettingstarted.html26, 194
 msgid "System Requirements"
-msgstr "Sistemski Zahtevi"
+msgstr "Laitevaatimukset"
 
 #: gettingstarted.html:29
 msgid "Installation Preparation"
-msgstr "Priprema Instalacije"
+msgstr "Asennuksen valmistelu"
 
 #: gettingstarted.html32, 197, 207
 msgid "Dual Booting"
-msgstr "Dualno Butovanje"
+msgstr "Kaksoiskäynnistys"
 
 #: gettingstarted.html:35
 msgid "Install Now"
-msgstr "Instaliraj sada"
+msgstr "Asenna heti"
 
 #: gettingstarted.html:39
 msgid "Familiarity"
-msgstr "Poznato"
+msgstr "Tutut jutut"
 
 #: gettingstarted.html41, 42
 msgid "Browser Ballot"
-msgstr "Izbornik čitača"
+msgstr "Selaintarjonta"
 
 #: gettingstarted.html45, 46, 867, 1698
 msgid "Customization"
-msgstr "Izmene"
+msgstr "Muokattavuus"
 
 #: gettingstarted.html48, 49, 1103
 msgid "Keyboard Shortcuts"
-msgstr "Prečice tastature"
+msgstr "Näppäimistö-oikopolut"
 
 #: gettingstarted.html:53
 msgid "Post-Installation"
-msgstr "Nakon Instalacije"
+msgstr "Jälkiasennus"
 
 #: gettingstarted.html54, 55, 403, 650
 msgid "Updates & Extras"
-msgstr "Ažuriranje i Dodatno"
+msgstr "Päivitykset & lisät"
 
 #: gettingstarted.html57, 58, 483, 493, 753
 msgid "Drivers"
-msgstr "Drajveri"
+msgstr "Ajurit"
 
 #: gettingstarted.html60, 61
 msgid "Language & Input"
-msgstr "Jezik i Unos"
+msgstr "Kieli & syöttöasetukset"
 
 #: gettingstarted.html63, 64, 755
 msgid "Optional Tasks"
-msgstr "Opcionalno"
+msgstr "Vaihtoehtoiset tehtävät"
 
 #: gettingstarted.html:68
 msgid "Troubleshooting"
-msgstr "Rešavanje problema"
+msgstr "Pulmanratkaisu"
 
 #: gettingstarted.html70, 71
 msgid "System Specifications"
-msgstr "Sistemske Specifikacije"
+msgstr "Järjestelmämääritykset"
 
 #: gettingstarted.html:80
 msgid "Please choose a topic to get started."
-msgstr "Molimo izaberite temu"
+msgstr "Valitse aihe aloittaaksesi."
 
 #: gettingstarted.html:88
 msgid "Modest System Requirements"
-msgstr "Srednji Sistemski Zahtevi"
+msgstr "Vaatimattomat järjestelmävaatimukset"
 
 #: gettingstarted.html:89
 msgid ""
 "<span name=\"distro-name\"></span> works well on both high-end to older "
 "computers, optimized to be functional, while light on system resources."
 msgstr ""
-"<span name=\"distro-name\"></span> radi dobro kako na računarima najnovije "
-"generacije tako i na starijim računarima, optimizovan je da bude "
-"funkcionalan a lagan na sistemske resurse."
+"<span name=\"distro-name\"></span> toimii hienosti niin uusissa huippuluokan"
+" tietokoneissa kuin vanhemmissakin kokoonpanoissa, toimivuudessa parhaaksi "
+"mahdolliseksi viilattu, kuitenkin kevyt laitteistovaatimuksiltaan."
 
 #: gettingstarted.html:92
 msgid "Minimum"
-msgstr "Minimum"
+msgstr "Vähimmäinen"
 
 #: gettingstarted.html:94
 msgid "Pentium Dual Core 1.6 GHz - approximately created in 2007"
-msgstr "Pentium Dual Core 1.6 GHz - iz 2007 godine"
+msgstr "Pentium kaksiydin 1.6 GHz - saapui markkinoille karkeasti vuonna 2007"
 
 #: gettingstarted.html:95
 msgid "2 gigabytes (GB) of RAM"
-msgstr "2 gigabajta (GB) RAM-a"
+msgstr "2 gigatavua (Gt) keskusmuistia (RAM)"
 
 #: gettingstarted.html:96
 msgid "16 gigabytes (GB) of disk space"
-msgstr "16 gigabajta (GB) prostora na disku"
+msgstr "16 gigatavua kiintolevytilaa"
 
 #: gettingstarted.html:99
 msgid "Recommended"
-msgstr "Preporučeno"
+msgstr "Suositus"
 
 #: gettingstarted.html:101
 msgid "Pentium i3 - approximately created in 2013"
-msgstr "Pentium i3 -  iz 2013 godine"
+msgstr "Pentium i3 - tuotiin markkinoille karkeasti vuonna 2013"
 
 #: gettingstarted.html:102
 msgid "4 gigabytes (GB) of RAM"
-msgstr "4 gigabajta (GB) RAM-a"
+msgstr "4 gigatavua keskusmuistia"
 
 #: gettingstarted.html:103
 msgid "80 gigabytes (GB) of disk space"
-msgstr "80 gigabajta (GB) prostora na disku."
+msgstr "80 gigatavua kiintolevytilaa"
 
 #: gettingstarted.html:106
 msgid ""
 "The operating system will run much more efficiently if your computer meets "
 "or surpasses the recommended requirements."
 msgstr ""
-"Operativni sistem će funkcionisati mnogo efikasnije ako vaš kompjuter "
-"zadovoljava ili prevazilazi preporučene zahteve."
+"Käyttöjärjestelmä toimii sulavammin jos tietokoneesi vastaa tai ylittää "
+"suositellut vaatimukset. "
 
 #: gettingstarted.html111, 1708
 msgid "What's inside my computer?"
-msgstr "Šta je unutar mog kompjutera?"
+msgstr "Mitä tietokoneeni sisältää?"
 
 #: gettingstarted.html:117
 msgid "Installation Preparations"
-msgstr "Priprema Instalacije"
+msgstr "Asennuksen valmistelut"
 
 #: gettingstarted.html:127
 msgid "Preparing to Install"
-msgstr "Pripremam se za Instalaciju"
+msgstr "Valmistautuu asentamaan"
 
 #: gettingstarted.html:128
 msgid ""
@@ -161,37 +162,37 @@ msgid ""
 " class=\"fa fa-windows\"></span> Microsoft Windows or another <span "
 "class=\"fa fa-linux\"></span> GNU/Linux distribution."
 msgstr ""
-"<span name=\"distro-name\"></span> je relativno lak za instaliranje, bez "
-"obzira da li želite da zamenite svoj postojeći operatini sistem ili da "
-"instalirate <span name=\"distro-name\"></span> uz isti kao što je npr <span "
-"class=\"fa fa-windows\"></span> Microsoft Windows ili drugu<span class=\"fa "
-"fa-linux\"></span> Gnu/Linux distribuciju."
+"<span name=\"distro-name\"></span>on suhteellisen helppo asentaa ja ottaa "
+"käyttöön, haluat sitten vaihtaa nykyisen käyttöjärjestelmäsi tai "
+"asentaaksesi sen olemassaolevan vierelle - kuten &nbsp; <span class=\"fa fa-"
+"windows\"></span> Microsoft Windows tai jokin toinen <span class=\"fa fa-"
+"linux\"></span> GNU/Linux-jakelu."
 
 #: gettingstarted.html:134
 msgid "For the best results:"
-msgstr "Za najbolje rezultate:"
+msgstr "Saavuttaaksesi parhaat tulokset:"
 
 #: gettingstarted.html:136
 msgid "<u><b>Back up</b></u> any important data to another storage device."
 msgstr ""
-"<u><b>Sačuvajte</b></u>bilo koje važne podatke na odvojenom disku za "
-"skladištenje."
+"<u><b> Varmuuskopioi</b></u> kaikki tärkeät tiedostosi erilliselle "
+"kovalevylle."
 
 #: gettingstarted.html:137
 msgid ""
 "Connect to the Internet to install all available updates during "
 "installation."
 msgstr ""
-"Poveži se na Internet da instaliras sve dostupne ispravke tokom instalacije."
+"Yhdistä Internet:iin jotta kaikki tarjolla olevat päivitykset asennettaisiin"
+" jo asennuksen aikana."
 
 #: gettingstarted.html:139
 msgid "Stay connected to the Internet to install all available updates."
-msgstr ""
-"Ostanite konektovani na Internet kako bi instalirali sve dostupne ispravke."
+msgstr "Pysy yhdistettynä Internet:iin jotta kaikki päivitykset asennetaan."
 
 #: gettingstarted.html:140
 msgid "Plug in your device to the mains if it is running on battery power."
-msgstr "Povežite vaš laptop na napajanje ako ste trenutno na bateriji."
+msgstr "Kytke laitteesi päävirtaan mikäli se on käytössä akkuvirran varassa."
 
 #: gettingstarted.html:145
 msgid ""
@@ -201,15 +202,16 @@ msgid ""
 "committing to installing it on your machine. Once you are ready, double "
 "click the installation icon from the desktop."
 msgstr ""
-"Živa sesija u kojoj se trenutno nalazite je dobra šansa da istestirate <span"
-" name=\"distro-name\"></span> bez čuvanja modifikacija, omogućujući vam da "
-"testirate sve periferije i druge uređjaje kako bi utvrdili da rade kako "
-"treba pre nego što se odlučite na instalaciju. Kada ste spremeni za "
-"instalaciju, kliknite dvaput instalacionu ikonu na desktopu. "
+"Live-istunto jossa tällä hetkellä olet on hyvä mahdollisuus <span name"
+"=\"distro-name\"></span>:n kokeilemiseen ilman että tietokoneeseesi tapahtuu"
+" mitään muutoksia, se antaa sinun kokeilla että kaikki oheislaittessi "
+"toimivat kuten tarkoitus on ennen kuin toteutat asennuksen varsinaisesti "
+"tietokoneeseesi. Kun olet valmis, kaksoisklikkaa asennuskuvaketta "
+"työpöydällä."
 
 #: gettingstarted.html:152
 msgid "Modern UEFI-based computers"
-msgstr "Moderni UEFI računari"
+msgstr "Nykyaikaiset UEFI-pohjaiset tietokoneet"
 
 #: gettingstarted.html:153
 msgid ""
@@ -218,15 +220,15 @@ msgid ""
 "Bootloader</b> option) prior to installation, particularly if an operating "
 "system was pre-installed."
 msgstr ""
-"Ako imate moderni PC koji koristi Unifikovani Ekstenzibilni Firmware "
-"Interfejs (UEFI), možda ćete morati da isključite <b>Secure Boot </b> ili da"
-" uključite, <b>opciju Unlock Bootloader</b>  pre same instalacije, naročito "
-"ako je vaš računar došao sa preinstaliranim sistemom."
+"Mikäli sinulla on nykyaikainen PC joka käyttää Unified Extended Firmware "
+"Interface (UEFI) ratkaisua, voi olla että sinun pitää kytkeä pois <b>Secure "
+"Boot</b> (tai sitten kytkeä päälle <b>Unlock Bootloader</b> vaihtoehto) "
+"ennen asennusta, varsinkin jos jokin käyttöjärjestelmä oli esiasennettu."
 
 #: gettingstarted.html:157
 msgid "If you are using a legacy BIOS machine, you do not need to do this."
 msgstr ""
-"Ako koristite BIOS na računaru, ne morate da radite ništa od navedenog."
+"Mikäli käytössäsi on vanhanaikainen BIOS-tietokone, tätä ei tarvitse tehdä."
 
 #: gettingstarted.html:160
 msgid ""
@@ -235,10 +237,11 @@ msgid ""
 "operating system installed in BIOS mode after installing a UEFI-enabled "
 "operating system or vice versa."
 msgstr ""
-"Posebno kada postoji dual boot, važno je da pokrenete vaš sistem u korektnom"
-" modu i da koristite <b> 64-bitnu verziju</b> jer ne možete pokrenuti "
-"operativni sistem instaliran u BIOS modu nakon što instalirate UEFI omogućen"
-" sistem i obrnuto. "
+"Varsinkin jos aiot kaksoisbootata, kaksi eri käyttöjärjestelmää "
+"tietokoneessa, on tärkeää että käynnistät järjestelmäsi oikeanlaatuisessa "
+"tilassa ja käytät <b>64-bittistä levykuvaa</b> , mikäli  käyttöjärjestelmän "
+"käynnistys ei onnistu BIOS-tilassa asennettuna UEFI-käytölle tarkoitetun "
+"käyttöjärjestelmän jälkeen tai päinvastoin."
 
 #: gettingstarted.html:166
 msgid ""
@@ -246,21 +249,21 @@ msgid ""
 "show a \"protection layer\". <b>Do not worry,</b> your data is not lost or "
 "corrupt!"
 msgstr ""
-"Pokretanje u BIOS modu na UEFI sistemu sa GPT formatiranim diskom će takodje"
-" prikaziti \"zaštitnički mod\". <b>Ne brinite se</b> vaši podaci nisu "
-"izgubljeni ili korumpirani."
+"Käynnistys BIOS-tilassa UEFI-järjestelmässä GPT-alustetun levyn kanssa "
+"näyttää se myös \"suojauskerroksen\". <b>Älä huoli,</b>tietosi eivät ole "
+"kadoksissa tai menneet käyttökelvottomaksi!"
 
 #: gettingstarted.html:171
 msgid ""
 "Your system is currently running in <b><span id=\"boot-mode\"></span> "
 "mode</b>."
 msgstr ""
-"Vaš sistem je trenutno pokrenut u <b><span id=\"boot-mode\"></span> "
-"modu</b>."
+"Järjestelmääsi ajetaan tällä hetkellä muodossa <b><span id=\"boot-"
+"mode\"></span>tilassa </b>."
 
 #: gettingstarted.html:176
 msgid "Swap"
-msgstr "Swap"
+msgstr "Heittovaihto-osio swap"
 
 #: gettingstarted.html:177
 msgid ""
@@ -269,10 +272,11 @@ msgid ""
 "Performance will decrease when running low on memory and could possibly "
 "freeze if you completely run out of memory without anywhere to swap."
 msgstr ""
-"Za kompjutere koji počinju da prekoračuju memoriju, RAM, operativni sistem "
-"će vršiti svapovanje na disk. Poznato kao \"paging fajl\" u Windows-u. "
-"Performanse će biti slabije kada ste pri kraju RAM memorije i može doći do "
-"zamrzavanja ako kompletno iskoristite memoriju bez opcije svapovanja."
+"Tietokoneissa joissa keskusmuisti (RAM) käy vähiin, käyttöjärjestelmä "
+"aloittaa levyn swap-heittovaihtotiedoston käytön. Tämä tunnetaan "
+"Windows:issa \"sivutustiedostona\". Suorituskyky heikkenee muistin ehtyessä "
+"ja sen johdosta voi tapahtua jumiutuminen, mikäli muisti loppuu kokonaan "
+"ilman mitään heittovaihtotilaa. "
 
 #: gettingstarted.html:181
 msgid ""
@@ -280,9 +284,10 @@ msgid ""
 "example, if you have 2 GiB of RAM, then 2 GiB of hard disk space will be "
 "reserved for swap at the end of the drive."
 msgstr ""
-"Po default-u, swap particija je kreirana na osnovu količine vašeg RAM-a. Ako"
-" npr imate 2 GB rama,  onda će 2GB na hard disku biti rezervisano za "
-"svapovanje na kraju hard diska. "
+"Vakiollisesti, swap-heittovaihto-osio luodaan perustuen RAM-keskusmuistisi "
+"määrään. Esimerkiksi, jos sinulla on 2 gigatavua keskusmuistia, täten "
+"levyltä varataan 2 gigatavua tilaa swap-heittovaihtotoiminnolle kyseisen "
+"levyn loppuosasta."
 
 #: gettingstarted.html:186
 msgid ""
@@ -291,13 +296,15 @@ msgid ""
 "reserved for the swap file. A separate swap partition is no longer required "
 "to be created."
 msgstr ""
-"Po default-u, swap fajl je kreiran na osnovu količine vašeg RAM-a. Ako npr "
-"imate 2 GB rama, onda će 2GB na hard disku biti rezervisano za svaw fajl. "
-"Posebna particija za svapovanje nije više obavezna."
+"Vakiollisesti, swap-heittovaihtotiedosto luodaan perustuen RAM-"
+"keskusmuistisi määrään. Esimerkiksi, jos sinulla on 2 gigatavua "
+"keskusmuistia, täten levyltä varataan 2 gigatavua tilaa swap-"
+"heittovaihtotiedostolle. Erillistä swap-heittovaihto-osion luomista ei enää "
+"vaadita. "
 
 #: gettingstarted.html194, 392, 753, 1697
 msgid "Previous:"
-msgstr "Prethodno:"
+msgstr "Edellinen:"
 
 #: gettingstarted.html:208
 msgid ""
@@ -306,94 +313,91 @@ msgid ""
 "in sections of your hard disk being split between multiple operating "
 "systems."
 msgstr ""
-"Ukoliko žeite da instalirate <span name=\"distro-name\"></span> uz vaš "
-"postojeći operativni sistem, vaše particije će morati da se preraspodele. "
-"Ovo će rezultirati podelom vašeg hard diska između više operativnih sistema."
+"Mikäli haluat asentaa <span name=\"distro-name\"></span> olemassaolevan "
+"käyttöjärjestelmäsi vierelle, osioitasi täytyy kutistaa. Tämä johtaa siihen,"
+" että kovalevysi osa-alueet jaetaan useiden käyttöjärjestelmien kesken."
 
 #: gettingstarted.html:214
 msgid "I'm dual booting with"
-msgstr "Dualno Boot-ujem sa"
+msgstr "Haluan käyttää kaksoiskäynnistystä näiden kesken"
 
 #: gettingstarted.html:217
 msgid "To minimize the risk of data loss or failure, ensure that:"
-msgstr ""
-"Kako biste minimizirali rizik gubitka vaših podataka  postarajte se da:"
+msgstr "Minimoidaksesi tietojen menetyksen tai rikkoutumisen, varmista että:"
 
 #: gettingstarted.html:219
 msgid "There is enough free space. 10 GB minimum is recommended."
-msgstr ""
-"Imate dovoljno slobodno mesta na hard disku, minimum 10GB je preporučeno."
+msgstr "Vapaata levytilaa on tarpeeksi. Vähintään 10 Gt on suositeltu määrä."
 
 #: gettingstarted.html:221
 msgid "<b><u>Back up</u></b> important data to another drive."
-msgstr ""
-"<b><u>Sačuvajte</u></b> važne podatke na drugom medijumu za prenos podataka."
+msgstr "<b><u>Varmuuskopioi</u></b>tärkeät tiedostot toiselle levylle."
 
 #: gettingstarted.html:223
 msgid "Defragment the hard drive."
-msgstr "Defragmentirajte hard disk."
+msgstr "Suorita kovalevyn eheytys."
 
 #: gettingstarted.html:224
 msgid "Ensure Windows has been cleanly shut down (not hibernated)."
-msgstr ""
-"Postarajte se da ste uradili čisto isključenje Windows-a (da nije u "
-"Hibernaciji)."
+msgstr "Varmista että Windows on puhtaasti suljettu (eikä ole horrostilassa)."
 
 #: gettingstarted.html:229
 msgid "Which approach would you prefer?"
-msgstr "Koji pristup preferirate?"
+msgstr "Mitä lähestymistapaa suosisit?"
 
 #: gettingstarted.html:232
 msgid "Simple"
-msgstr "Jednostavan"
+msgstr "Yksinkertainen"
 
 #: gettingstarted.html:234
 msgid "Advanced"
-msgstr "Napredan"
+msgstr "Edistynyt"
 
 #: gettingstarted.html:236
 msgid "Safest"
-msgstr "Najbezbedniji"
+msgstr "Turvallisin"
 
 #: gettingstarted.html:241
 msgid "The simplest method is to use the installer."
-msgstr "Najednostavniji metod je da koristite instaler."
+msgstr "Yksinkertaisin tapa on käyttää asennusohjelmaa."
 
 #: gettingstarted.html:243
 msgid ""
 "The installer scans your disks for existing operating systems and provides a"
 " choice on what you'd like to do."
 msgstr ""
-"Instaler skenira vaše hard diskove za postojeće operativne sistem i daje vam"
-" opciju izbora u tome šta želite da uradite."
+"Asennusohjelma läpikäy levysi etsien jo olemassaolevia käyttöjärjestelmiä "
+"sekä tarjoaa valinnan sille mitä haluat tehdä."
 
 #: gettingstarted.html:246
 msgid "You will see an option similar to this:"
-msgstr "Videćete opciju slično ovoj:"
+msgstr "Tulet näkemään tämänkaltaisen vaihtoehdon:"
 
 #: gettingstarted.html:250
 msgid "Followed by:"
-msgstr "Praćenu sa:"
+msgstr "Jota seuraa:"
 
 #: gettingstarted.html:256
 msgid "Do not interrupt or power off the computer during a resize operation."
-msgstr "Ne prekidajte i ne gasite kompjuter tokom opcije preraspodele diska."
+msgstr ""
+"Älä keskeytä tietokonetta tai kytke siitä pois virtaa levyn "
+"uudelleenkoostamistoiminnon aikana."
 
 #: gettingstarted.html:258
 msgid ""
 "If you do, data loss or a partition table corruption could occur. Please "
 "double check your changes before proceeding."
 msgstr ""
-"Ako to uradite, gubitak podataka ili korupcija partcije se može desite. "
-"Molimo vas da proverite dvaput vaše promene pre nego što nastavite."
+"Mikäli teet niin, voi tapahtua tietojen menetys tai osiotaulukon "
+"rikkoontuminen. Tarkista muutoksesi kahteenkin kertaan ennen jatkamista."
 
 #: gettingstarted.html:260
 msgid ""
 "The installer may show a <span class=\"fa fa-spinner\"></span> spinner "
 "cursor for a long period of time, depending on the size of your disk."
 msgstr ""
-"Instaler može prikazati <span class=\"fa fa-spinner\"></span> kursor koji se"
-" okreće u dužem period, u zavisnosti od veličine vašeg hard diska."
+"Asennusohjelma voi näyttää <span class=\"fa fa-spinner\"></span>pyörivää "
+"osoitinta pitkänkin aikaa, riippuen levysi koosta."
 
 #: gettingstarted.html:264
 msgid ""
@@ -401,13 +405,14 @@ msgid ""
 "command prompt to check the file system for errors. Windows may schedule "
 "this automatically. This ensures consistency for the NTFS file system."
 msgstr ""
-"<b> Kada sledeći put pokrenete Windows, ukucajte</b> <code>chkdsk /f</code> "
-"iz komandne table kako bi proverili fajl sistem za greške. Windows će možda "
-"ovo sprovesti automatski. Ovo potvrđjuje konzistentnost za NTFS fajl sistem."
+"<b>Kun seuraavan kerran käynnistät Windows:iin, aja </b><code> chkdsk /f "
+"</code>komentokehotteesta tarkistaaksesi tiedostojärjestelmän virheiltä. "
+"Windows saattaa toimittaa tämän automaattisesti. Tämä varmistaa levyn "
+"johdonmukaisuuden NTFS-tiedostojärjestelmää varten. "
 
 #: gettingstarted.html:272
 msgid "Use GParted or the installer's \"Custom\" option."
-msgstr "Koristite GParted ili instalersku \"Custom\" opciju."
+msgstr "Käytä GParted-ohjelmaa tai asennusohjelman vaihtoehtoa \"Mukautettu\"."
 
 #: gettingstarted.html:275
 msgid ""
@@ -417,15 +422,15 @@ msgid ""
 "power users who know how they'd like to layout their disks. This method "
 "makes changes to partitions prior to installation."
 msgstr ""
-"<b>GParted</b> je dostupan samo tokom live sesije. Lociran je kod <b>System "
-"Tools<i class=\"material-icons\">&#xE315</i></b>menu. GParted pruža "
-"kompletnu fleksibilnost u upravljanju particijama, prevashodno za napredne "
-"korisnike koji znaju kako žele da njihov disk izgleda. Ovaj metod pravi "
-"promene na pariticijama pre same instalacije."
+"<b>GParted</b>on tarjolla vain live-istunnon aikana. Se sijaitsee "
+"<b>Järjestelmätyökalut<i class=\"material-icons\">&#xE315;</i></b>valikon "
+"alla. Gparted tarjoaa kokonaisvaltaisen joustavuuden osioidesi suhteen, "
+"ensisijaisesti tehokäyttäjille jotka tietävät miten he haluavat levynsä "
+"osioida. Tämä menetelmä tekee osiomuutokset ennen asennusta."
 
 #: gettingstarted.html:283
 msgid "Open GParted"
-msgstr "Otvori Gparted"
+msgstr "Avaa GParted"
 
 #: gettingstarted.html:286
 msgid ""
@@ -433,13 +438,14 @@ msgid ""
 "unallocated, whereby the installer will detect this unused space to install "
 "<span name=\"distro-name\"></span> to."
 msgstr ""
-"Nakon što se operacije završi, možete ostaviti preostali prostor nelocirani,"
-" tako da će intstaler detektovati nelokorisceni prostor da instalira <span "
-"name=\"distro-name\"></span> na istom."
+"Sen jälkeen kun toiminnot levyllesi on saatettu päätökseen, voit jättää "
+"jäljellä olevan tilan varaamattomaksi, jonka johdosta asennusohjelma "
+"tunnistaa tämän käyttämättömän tilan asentaakseen <span name=\"distro-"
+"name\"></span>siihen."
 
 #: gettingstarted.html:290
 msgid "Using the Installer's \"Custom\" option."
-msgstr "Korišćenjem instalerske \"Custom\" opcije."
+msgstr "Käytetään asennusohjelman vaihtoehtoa \"Mukautettu\". "
 
 #: gettingstarted.html:291
 msgid ""
@@ -448,57 +454,60 @@ msgid ""
 " choose mount points. Dividing your disks can make it somewhat easier to re-"
 "install the operating system later if desired."
 msgstr ""
-"Umesto ili kao dodatak Gparted <b>Custom</b> opcija tokom instalacionog "
-"čarobnjaka može da konfigurise i podesi vaše particije i da izabere mount "
-"pointe. Podela diska može napraviti nešto lakšim reinstalaciju operativnog "
-"sistema kasnije ako to želite. "
+"Gparted:in sijasta- tai sen lisäksi, <b>Mukautettu</b>vaihtoehto "
+"asennusohjelmavelhossa mahdollistaa myös osioiden muokkaamisen ja niiden "
+"koon muuttamisen sekä liitoskohtien valinnat. Levyjesi jakaminen saa aikaan "
+"jokseenkin helpomman käyttöjärjestelmän uudelleenasentamisen myöhemmin "
+"mikäli näin halutaan tehdä."
 
 #: gettingstarted.html:296
 msgid "You can specify these mount points:"
-msgstr "Možete specifikovati mount points:"
+msgstr "Voit määrittää nämä liitoskohdat:"
 
 #: gettingstarted.html:298
 msgid "The base for <span name=\"distro-name\"></span>"
-msgstr "Bazu za <span name=\"distro-name\"></span>"
+msgstr "<span name=\"distro-name\"></span>pohjarakenne"
 
 #: gettingstarted.html:299
 msgid "Bootloader and kernels"
-msgstr "Bootloader i kernele"
+msgstr "Käynnistyslatain ja ytimet"
 
 #: gettingstarted.html:300
 msgid "Your personal files and folders"
-msgstr "Za vaše fajlove i foldere"
+msgstr "Henkilökohtaiset tiedostosi ja kansiosi"
 
 #: gettingstarted.html:301
 msgid "Temporary files"
-msgstr "Privremene fajlove"
+msgstr "Väliaikaiset tiedostot"
 
 #: gettingstarted.html:302
 msgid ""
 "Contains most of the applications <i> (binaries, documentation, libraries, "
 "etc)</i>"
 msgstr ""
-"Sadrži većinu aplikacija <i> ( binarski oblik, dokumentaciju, biblioteke "
-"itd)</i>"
+"Sisältää useimmat sovellukset <i> (binääritiedostot, dokumentaatio, "
+"kirjastot, jne)</i>"
 
 #: gettingstarted.html:304
 msgid "Variable data <i>(such as system logs)</i>"
-msgstr "Varijabilne podatke <i>(kao što su sistemski logovi)</i>"
+msgstr ""
+"Jatkuvamuutoksinen data <i> (kuten järjestelmän toiminnan "
+"ylöskirjaustiedostot)</i>"
 
 #: gettingstarted.html:305
 msgid ""
 "Data for System Services <i>(typically used for server configurations)</i>"
 msgstr ""
-"Podaci za Sistemske Servise <i>(tipično korišćeni za serversku "
-"konfiguraciju)</i>"
+"Järjestelmäpalvelu-data <i>(käytetään luonteenomaisesti palvelinasetuksiin) "
+"</i>"
 
 #: gettingstarted.html:307
 msgid "Additional software unmanaged by the package manager"
-msgstr "Dodatni softver kojim ne upravlja menadžer paketa"
+msgstr "Lisäohjelmistot joita paketinhallinta ei hallinnoi"
 
 #: gettingstarted.html:308
 msgid "such as"
-msgstr "kao što su"
+msgstr "kuten"
 
 #: gettingstarted.html:311
 msgid ""
@@ -509,28 +518,28 @@ msgid ""
 "<code>/</code> on an SSD, but your personal files <code>/home</code> on a "
 "mechanical hard drive."
 msgstr ""
-"Kreiranje posebnih particija za sve mount points nije potrebno. "
-"Direktorijumi za kreaciju particija su obično <code> /</code>, "
-"<code>/home</code> i <code>/boot</code>. Ovi mount points mogu da podešeni "
-"na više hard diskova tako npr možete da instalirate OS <code>/</code> na SSD"
-" a da vaše personalne fajlove u <code>/home</code> instalirate na mehaničkom"
-" disku."
+"Erillisten osioiden luominen kaikille yllä oleville liitospisteille ei ole "
+"välttämätöntä. Yleisesti osioitujen hakemistojen ollen <code>/</code>, "
+"<code> /home ja <code>/boot</code>. Nämä liitospisteet voidaan myös asettaa "
+"läpi eri fyysisten levyjen kesken, esimerkiksi, mikäli haluat "
+"käyttöjärjestelmän <code>/</code>SSD:lle, mutta kuitenkin henkilökohtaiset "
+"tiedostosi kohteeseen <code>/home</code>mekaanisella kovalevyllä. "
 
 #: gettingstarted.html:319
 msgid "Shrink your system disk within Windows."
-msgstr "Smanjite Windows sistemski disk "
+msgstr "Kutista järjestelmälevysi Windows:in sisällä."
 
 #: gettingstarted.html:321
 msgid "Applies to Windows Vista and later."
-msgstr "Primenjlivo na Vistu i kasnije verzije."
+msgstr "Pätee Windows Vistaan ja sitä myöhempiin."
 
 #: gettingstarted.html:323
 msgid ""
 "If you are using Windows XP or earlier, you will need to use the "
 "<b>Simple</b> or <b>Advanced</b> method to shrink your disk."
 msgstr ""
-"Ako koristite Windows XP ili raniju verziju, biće potrebno da koristite "
-"<b>Simple</b> ili <b>Advanced</b>metodu da smanjite svoj disk."
+"Mikäli käytössäsi on Windows XP tai aiempi, sinun täytyy käyttää menetelmiä "
+"<b>Yksinkertainen</b> tai <b>Edistynyt</b>levysi kutistuttamiseksi."
 
 #: gettingstarted.html:327
 msgid ""
@@ -539,37 +548,38 @@ msgid ""
 "boots on your computer while experiencing <span name=\"distro-"
 "name\"></span>."
 msgstr ""
-"Nove verzije Windows-a nude alat za smanjivanje NTFS particije uokviru "
-"Windows-a. Ovo je bezbednije jer se Windows i dalje pokreće dok i dalje "
-"koristite <span name=\"distro-name\"></span>."
+"Uudemmat Windows-versiot tarjoavat työkalun NTFS-osion kutistamiseen "
+"Windows:in sisältä. Tämä on turvallisempi tapa mikäli on olennaisen tärkeää "
+"että Windows edelleen käynnistyy tietokoneessasi kun käytössä on <span name"
+"=\"distro-name\"></span>."
 
 #: gettingstarted.html:331
 msgid "Open <b>Disk Management</b> from the start menu."
-msgstr "Otvorite <b>Disk Management</b> iz start menija."
+msgstr "Avaa <b>Levynhallinta</b>käynnistävalikosta."
 
 #: gettingstarted.html:336
 msgid ""
 "Right click your desired drive and choose <b>Shrink Partition</b> from the "
 "context menu."
 msgstr ""
-"Desni klik na izabrani drajv i izaberite opciju <b>Shrink Partition</b> iz "
-"padajućeg menija."
+"Napsauta hiiren oikeanpuoleisella napilla haluttua asemaa ja valitse "
+"<b>Kutista osio</b>kyseisen aihepiirin valikosta."
 
 #: gettingstarted.html:342
 msgid "Enter the amount to shrink your system partition by."
-msgstr "Izaberite iznos za koji želite da smanjite sistemsku particiju."
+msgstr "Syötä määre sille kuinka paljon järjestelmäosiota kutistetaan."
 
 #: gettingstarted.html:348
 msgid ""
 "Remember, <span name=\"distro-name\"></span> needs at minimum 16 GB of disk "
 "space."
 msgstr ""
-"Upamtite, <span name=\"distro-name\"></span> je potrebno minimum 16 GB "
-"prostora na disku."
+"Muistathan, <span name=\"distro-name\"></span> tarvitsee vähintään 16 "
+"gigatavua vapaata levytilaa."
 
 #: gettingstarted.html:353
 msgid "Further Reading"
-msgstr "Dalje čitanje"
+msgstr "Lisäluettavaa"
 
 #: gettingstarted.html:354
 msgid ""
@@ -578,14 +588,14 @@ msgid ""
 "onclick=\"cmd('link?https://help.ubuntu.com/community/HowtoResizeWindowsPartitions')\">"
 " help article</a> online."
 msgstr ""
-"Za dalje informacije i najbolje metode za modifikovanje particija koje "
-"sadrže Windows, pogledajte sledeće <a "
-"onclick=\"cmd('link?https://help.ubuntu.com/community/HowtoResizeWindowsPartitions')\">članke"
-" za pomoć</a> na internetu."
+"Saadaksesi lisätietoja parhaista käytännöistä Windows:in sisältävien "
+"osioiden muokkaamiseen, lue seuraava <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/HowtoResizeWindowsPartitions')\">apuopas"
+" </a> internetissä."
 
 #: gettingstarted.html:361
 msgid "Repairing Boot Problems"
-msgstr "Popravka Boot Problema"
+msgstr "Käynnistysongelmien korjaaminen"
 
 #: gettingstarted.html:363
 msgid ""
@@ -595,52 +605,53 @@ msgid ""
 "will overwrite them, with the potential to lose access to <span name"
 "=\"distro-name\"></span> temporally."
 msgstr ""
-"Linux distribucije koriste boot loader poznat kao  <code>grub </code> koji "
-"služi za pokretanje sistema. Ipak, neki operativni sistemi (Kao što je "
-"Windows) ne integrišu se sa trenutnim bootloaderom i pišu preko istih, što "
-"dovodi do privremenog gubitka pristupa <span name=\"distro-name\"></span>."
+"Linux-jakelut käyttävät käynnistyslatainta nimeltä <code>grub</code>, joka "
+"havaitsee ja valjastaa käyttöjärjestelmän. Tästä huolimatta, jotkut "
+"käyttöjärjestelmät (kuten Windows) eivät sulaudu yhteistyöhön "
+"olemassaolevien käynnistyslataimien kanssa ja ylikirjoittavat ne, "
+"mahdollisesti aiheuttaen väliaikaisen <span name=\"distro-"
+"name\"></span>käytön saavuttamattomuuden."
 
 #: gettingstarted.html:369
 msgid ""
 "Fortunately, you can use the <b>Boot Repair</b> tool to repair common "
 "problems caused by other operating systems."
 msgstr ""
-"Srećom, možete iskoristiti <b>Boot Repair</b>alat da popravite česte "
-"probleme prouzrokovani od stranih drugih operativnih sistema."
+"Voit onneksi käyttää työkalua <b>Käynnistyskorjain</b>korjataksesi yleisiä "
+"ongelmia joita muut käyttöjärjestelmät aiheuttavat. "
 
 #: gettingstarted.html:374
 msgid "Requires downloading a package."
-msgstr "Potrebno je preuzimanje paketa."
+msgstr "Vaatii paketin lataamisen."
 
 #: gettingstarted.html:375
 msgid "Please connect to the Internet to download and use this utility."
-msgstr "Molimo povežite se na Internet da preuzmete i koristite ovaj alat."
+msgstr ""
+"Yhdistä Internet:iin ladataksesi ja ottaaksesi tämän työkalun käyttöön."
 
 #: gettingstarted.html:377
 msgid "Sorry, Welcome was unable to establish a connection."
-msgstr "Žao nam je, Ekran Dobrodošlice nije mogao da uspostavi konekciju."
+msgstr "Pahoittelut, Welcome ei kyennyt muodostamaan yhteyttä."
 
 #: gettingstarted.html:385
 msgid "Download Boot Repair"
-msgstr "Preuzmite Boot Repair"
+msgstr "Lataa Boot Repair-käynnistyskorjain"
 
 #: gettingstarted.html:387
 msgid "Open Boot-Repair"
-msgstr "Otvorite Boot-Repair"
+msgstr "Avaa Boot-Repair -käynnistyskorjain"
 
 #: gettingstarted.html:392
 msgid "Install Preparations"
-msgstr "Priprema Instalacije"
+msgstr "Asenna valmistelut"
 
 #: gettingstarted.html:406
 msgid "An Internet connection is required to download and install updates."
-msgstr ""
-"Internet konekcija je potrebna za preuzimanje fajlova i instaliranje "
-"ispravki. "
+msgstr "Internet-yhteys vaaditaan päivitysten lataamiseen ja asentamiseen."
 
 #: gettingstarted.html:415
 msgid "Software Updater"
-msgstr "Software Updater"
+msgstr "Ohjelmistopäivitykset"
 
 #: gettingstarted.html:416
 msgid ""
@@ -649,26 +660,26 @@ msgid ""
 "just installed <span name=\"distro-name\"></span>, you might want to do this"
 " now."
 msgstr ""
-"<span name=\"distro-name\"></span> će periodično proverite da li je novi "
-"softver ili sigurnosna ispravka dostupna za vaš kompjuter. Ako ste upravo "
-"instalirali <span name=\"distro-name\"></span>, trebalo bi da to proverite "
-"sada."
+"<span name=\"distro-name\"></span>tarkistaa säännöllisesti josko uusia "
+"ohjelma- ja turvapäivityksiä on tietokoneeseesi tarjolla. Mikäli olet juuri "
+"asentanut <span name=\"distro-name\"></span>:n, haluat ehkä tehdä tämän "
+"heti. "
 
 #: gettingstarted.html:422
 msgid ""
 "<b>Software Updater</b> can be found later in the menu "
 "<strong>Administration</strong>"
 msgstr ""
-"<b>Software Updater</b>može biti pronađjen u meniju <strong> "
-"Administration</strong>"
+"<b>Ohjelmistopäivitykset</b> löytyy myöhemmin valikosta "
+"<strong>Järjestelmänhallinta</strong>"
 
 #: gettingstarted.html:429
 msgid "Check for Updates"
-msgstr "Proveri ažuriranja"
+msgstr "Tarkista päivitykset"
 
 #: gettingstarted.html:442
 msgid "Restricted Extras"
-msgstr "Ograničeni Ekstra dodaci"
+msgstr "Rajoitetut lisät"
 
 #: gettingstarted.html:443
 msgid ""
@@ -678,11 +689,11 @@ msgid ""
 "Ubuntu License Policy) complicate distribution of software to support non-"
 "free formats."
 msgstr ""
-"<strong>Ubuntu</strong> (baza <span name=\"distro-name\"></span>) cilja da "
-"učini sve važne softverske pakete dostupne svojim korisnicima automatski. "
-"Ipak, patenti i ograničenja autorskog prava (pogledajte Ubuntu Politiku "
-"Licenciranja) komplikuje distribuciju softvera koji dolazi u vlasničkom "
-"formatu."
+"<strong>Ubuntu</strong>(<span name=\"distro-name\"></span>:n pohjajakelu) "
+"pyrkii tuomaan kaikki tärkeimmät sovellukset käyttäjiensä saataville "
+"automaattisesti. Tästä huolimatta patentteihin ja tekijänoikeuksiin "
+"liittyvät rajoitteet (lue Ubuntu:n lupakäytännöt) vaikeuttavat ohjelmistojen"
+" jakamista ei-vapaiden formaattimuotojen tuen suhteen. "
 
 #: gettingstarted.html:449
 msgid ""
@@ -690,9 +701,9 @@ msgid ""
 " including DVD, MP3, Quicktime, and Windows Media formats, by following the "
 "instructions below."
 msgstr ""
-"Ipak, možete instalirati sve vlasničke medijske kodeke, uključujući ali ne i"
-" ograničeno za DVD, MP3, Quicktime i Windows media formate, prateći "
-"instrukcije ispod. "
+"Kaikki tarvittava voidaan kuitenkin asentaa, jotta suosittuja ei-vapaita "
+"mediamuotoja kuten DVD, MP3, Quicktime, ja Windows Media kyetään toistamaan,"
+" kun seuraat allaolevia ohjeita."
 
 #: gettingstarted.html:453
 msgid ""
@@ -701,10 +712,11 @@ msgid ""
 "See Ubuntu’s Free Software Philosophy and the Free Formats page for a more "
 "comprehensive discussion of these issues."
 msgstr ""
-"Ubuntu je posvećen uključivanju samo kompletno besplatnog softvera po "
-"defaultu što znači da vlasnički medijski formati nisu konfigurisani odmah. "
-"Pogledajte Ubuntu Besplatna Softverska Filozifija i Besplatni Formati "
-"stranice za bolju diskusiju o ovima problemima."
+"Ubuntu on vakiollisesti sitoutunut sisällyttämään vain täysin vapaat "
+"ohjelmistot, joka tarkoittaa että omisteisia mediamuotoja ei ole asetettu "
+"toimimaan “suoralta kädeltä”. Lue Ubuntu:n vapaiden ohjelmistojen filosofia "
+"-Ubuntu’s Free Software Philosophy- ja -Free Formats- eli vapaat formaatit "
+"-sivu tutustuaksesi kattavampaan keskusteluun näistä aiheista."
 
 #: gettingstarted.html:460
 msgid ""
@@ -713,28 +725,28 @@ msgid ""
 " unsure whether a particular patent or restriction applies to a media format"
 " you wish to use in your country."
 msgstr ""
-"<strong>Pravna notifikacija</strong> Patentska i autorska prava funkcionišu "
-"različito u zavisnosti u kojoj zemlji se nalazite. Molimo vas da se pravno "
-"posavetujete ako niste sigurni da li određjeni patent ili ograničenje se "
-"primenjuje na medijski format koji želite da koristite u vašoj zemlji."
+"<strong>Lainopilliset huomautukset</strong> Patentti- ja tekijänoikeuslait "
+"toimivat eri tavalla riippuen missä maassa olet. Hankithan lainopillisia "
+"neuvoja mikäli olet epävarma jonkin tietyn patentin- tai rajoitteen "
+"laillisista käytännöistä liittyen haluamasi mediamuodon käyttöön maassasi."
 
 #: gettingstarted.html469, 610, 676, 685, 725, 736, 747, 785, 818, 889, 899,
 #: 915, 931, 941, 959, 974, 992, 1011, 1033, 1051
 msgid "Applying Changes..."
-msgstr "Primena Izmena..."
+msgstr "Muutoksia toteutetaan..."
 
 #: gettingstarted.html472, 720, 731, 742, 787, 820, 883, 925, 953, 968
 msgid "Install"
-msgstr "Instaliraj"
+msgstr "Asenna"
 
 #: gettingstarted.html475, 723, 734, 745, 886, 928, 956, 971, 989, 1008, 1030,
 #: 1048
 msgid "Remove"
-msgstr "Ukloni"
+msgstr "Poista"
 
 #: gettingstarted.html483, 755, 867
 msgid "Next:"
-msgstr "Sledeće:"
+msgstr "Seuraava:"
 
 #: gettingstarted.html:494
 msgid ""
@@ -744,61 +756,62 @@ msgid ""
 " often required to get some devices, typically Bluetooth and Wi-Fi, to work "
 "correctly."
 msgstr ""
-"Dok je širok spekta hardware-a kompatibilan sa <span name=\"distro-"
-"name\"></span>, postoje komponente i periferije koje zahtevaju instalaciju "
-"vlasničkih drajvera kako bi funkcionisale. Instaliranje firmware paketa je "
-"često potrebno da bi određenje stvari poput Bluetooth-a i Wi-Fi radile "
-"ispravno."
+"Vaikkakin laaja laitteiden kirjo on <span name=\"distro-name\"></span> "
+"yhteensopivaa, olemassa on myös joitakin osia ja oheislaitteita jotka "
+"vaativat omisteiset ajurit toimiakseen kunnollisesti. Firmware-"
+"laiteohjelmien asentaminen vaaditaan usein jotta tiettyjen laitteiden "
+"toimivuus, tyypillisesti Bluetooth ja Wi-Fi, saavutetaan."
 
 #: gettingstarted.html:500
 msgid "An Internet connection is required to download and install drivers."
-msgstr "Internet konekcija je potrebna za preuzimanje i instalaciju drajvera."
+msgstr "Internet-yhteys vaaditaan ajureiden lataamista ja asennusta varten. "
 
 #: gettingstarted.html:505
 msgid "Additional Drivers"
-msgstr "Dodatni drajveri"
+msgstr "Lisäajurit"
 
 #: gettingstarted.html:510
 msgid ""
 "<b>Additional Drivers</b> can be found later in <b>Software & Updates</b>"
 msgstr ""
-"<b>Dodatni drajveri</b> se mogu naći kasnije u <b>Software & Updates</b>"
+"<b>Lisäajurit</b>löytyy myöhemmin paikasta <b>Ohjelmistot & päivitykset</b>"
 
 #: gettingstarted.html:517
 msgid "Graphics"
-msgstr "Grafika"
+msgstr "Grafiikat"
 
 #: gettingstarted.html:523
 msgid ""
 "Sorry, Welcome was unable to automatically identify the graphics vendor on "
 "this system."
 msgstr ""
-"Izvinjavamo se, Welcome nije mogao da automatski identifikuje proizvođjača "
-"grafičke kartice na vašem sistemu."
+"Pahoittelut, Tervetuloa-ohjelma ei kyennyt tunnistamaan tämän järjestelmän "
+"grafiikkoja käsittelevän näytönohjaimen valmistajaa automaattisesti."
 
 #: gettingstarted.html526, 534, 542, 548
 msgid "Card/Chipset:"
-msgstr "Card/Chipset:"
+msgstr "Kortti/sirusarja:"
 
 #: gettingstarted.html526, 534, 542, 548
 msgid "Unknown"
-msgstr "Nepoznato"
+msgstr "Tuntematon"
 
 #: gettingstarted.html:530
 msgid "NVIDIA Graphics Card Detected."
-msgstr "NVIDIA Grafička kartica detektovana."
+msgstr "NVIDIA-näytönohjain havaittu."
 
 #: gettingstarted.html:531
 msgid ""
 "NVIDIA may have drivers for your card that can boost performance for 3D "
 "applications and games as well as deliver improvements to power management."
 msgstr ""
-"NVIDIA možda ima drajvere za vašu karticu koji mogu poboljšati performanse "
-"za 3D aplikacije i igre, kao i dostavu poboljšanja za energijski menadžment."
+"NVIDIA:lla voi olla kortillesi ajurit jotka kiihdyttävät suorituskykyä 3D-"
+"sovelluksia ja pelejä varten kuten myös tarjoavat parannuksia "
+"virranhallintaan. "
 
 #: gettingstarted.html:538
 msgid "AMD Graphics Card Detected."
-msgstr "AMD Grafička kartica detektovana"
+msgstr "AMD-näytönohjain havaittu."
 
 #: gettingstarted.html:539
 msgid ""
@@ -806,34 +819,36 @@ msgid ""
 " are currently using will deliver the most stable performance out of your "
 "card."
 msgstr ""
-"AMD drajveri više nisu podržani na Ubuntu. Drajveri otvorenog koda koji "
-"trenutno koristite će vam pružiti stabilnost i maksimalne performanse koje "
-"vaša grafička pruža."
+"AMD:n ajurit eivät ole enää tuettuna Ubuntu:ssa. Avoimen lähdekoodin ajurit "
+"jotka ovat tällä hetkellä käytössä tarjoavat kaikkein vakaimman "
+"suorituskyvyn näytönohjainkortillesi."
 
 #: gettingstarted.html:546
 msgid "You're already good to go."
-msgstr "Spremni ste. "
+msgstr "Kaikki on sinulle jo valmiiksi kunnossa."
 
 #: gettingstarted.html:547
 msgid ""
 "Intel's drivers are open source and are maintained/updated in the kernel."
-msgstr "Intelovi drajveri su otvorenog koda i održavaju se unutar kernela."
+msgstr ""
+"Intel:in ajurit ovat lähdekoodiltaan avoimet ja ylläpidetään/päivitetään "
+"Linux-ytimessä."
 
 #: gettingstarted.html:552
 msgid "VirtualBox Guest Additions"
-msgstr "Dodaci za VirtualBox Gosta"
+msgstr "VirtualBox-virtualisointiohjelman Guest Additions-vieraslisäykset"
 
 #: gettingstarted.html:553
 msgid ""
 "To accelerate graphics performance inside the virtual machine, please "
 "install Guest Additions."
 msgstr ""
-"Za grafičku aksceleraciju i performanse unutar virtualne mašine, molimo vas "
-"da instalirate Guest Additions."
+"Kiihdyttääksesi grafiikankäsittelyn suorituskykyä virtuaalikoneen sisällä, "
+"asenna Guest Additions-vieraslisäykset."
 
 #: gettingstarted.html:558
 msgid "Proprietary or Open Source Drivers?"
-msgstr "Vlasinički li otvoreni drajveri?"
+msgstr "Omisteiset vaiko avoimen koodin ajurit?"
 
 #: gettingstarted.html:559
 msgid ""
@@ -841,10 +856,10 @@ msgid ""
 "open source, Ubuntu developers are <b>unable to review and improve driver "
 "code</b> meaning you'll have to rely on the manufacturer for support."
 msgstr ""
-"Vlasnički drajveri dolaze direktno od proizvodjača. Pošto nisu otvorenog "
-"koda Ubuntu programeri <b> nisu u mogućnosti da izvrše pregled i da ih "
-"poboljšaju</b> što znači da ćete morati da se oslonite na proizvodjača za "
-"podršku."
+"Omisteiset ajurit saapuvat suoraan valmistajalta. Koska ne eivät ole "
+"koodiltaan avoimia, Ubuntu-kehittäjät ovat <b> estetyt tarkastelemaan ja "
+"parantamaan ajurikoodia </b> tarkoittaen sitä että sinun täytyy luottaa "
+"käyttötuessa valmistajaan. "
 
 #: gettingstarted.html:564
 msgid ""
@@ -852,29 +867,31 @@ msgid ""
 "performance</b> and as a result, the entire system. Users may wish to "
 "install these drivers to:"
 msgstr ""
-"Dodatno, vlasnički drajveri mogu da <b> poprave grafičke performanse</b> te "
-"kao rezultat brzinu čitavog sistema. Korisnici će možda želeti da "
-"instalirijau ove dravjer zbog:"
+"Tähän lisäyksenä, omisteiset ajurit voivat <b> parantaa merkittävästi "
+"graafista suorituskykyä</b>ja tämän seurauksena, koko järjestelmän. "
+"Käyttäjät haluavat luultavasti asentaa nämä ajurit ajaakseen:"
 
 #: gettingstarted.html:569
 msgid "Run 3D applications and games."
-msgstr "Pokretanje 3D aplikacija i igara."
+msgstr "3D-sovelluksia ja pelejä."
 
 #: gettingstarted.html:570
 msgid ""
 "Improve power management, particularly if the device experiences overheating"
 " problems under open source drivers."
 msgstr ""
-"Poboljšanog energetskog menadžmenta ako dolazi do problema za pregrejavanjem"
-" pod drajverima otvorenog koda. "
+"Parantaakseen virrankäyttöä, varsinkin jos laitteessa ilmenee "
+"ylikuumenemisongelmia avoimen koodin ajureiden ollessa käytössä."
 
 #: gettingstarted.html:573
 msgid "Improve support for high resolutions and multiple monitors."
-msgstr "Poboljšane podrške za visoke rezolucije i više monitora."
+msgstr ""
+"Parantaakseen korkeiden näyttötarkkuuksien tukea sekä tukea monelle "
+"näytölle."
 
 #: gettingstarted.html:574
 msgid "Fix blank screen issues."
-msgstr "Problema sa crnim ekranom."
+msgstr "Mustanäyttöongelmien korjaamiseksi."
 
 #: gettingstarted.html:577
 msgid ""
@@ -882,38 +899,39 @@ msgid ""
 "experience adverse behavior, causing more issues than the open source "
 "drivers, such as:"
 msgstr ""
-"Vlasnički drajveri su takođje poznati kao \"binary blobs\". Određjeni "
-"hardver može da ima različito ponašanje, što može da prouzrokuje više "
-"problema nego sa drajverima otvorenog koda, kao što je:"
+"Omisteiset ajurit tunnetaan käsitteellä \"binary blobs-binääriläiskät\". "
+"Tiettyjen laitteiden kohdalla voi ilmetä odottamatonta toimintaa, aiheuttaen"
+" enemmän ongelmia kuin avointen ajurien kanssa, kuten: "
 
 #: gettingstarted.html:581
 msgid "Failing to boot to the graphical desktop."
-msgstr "Nemogućnost bootovanja u grafički desktop."
+msgstr "Tietokoneen käynnistymättömyys graafiseen työpöytään asti."
 
 #: gettingstarted.html:582
 msgid "Broken drivers after an upgrade."
-msgstr "Pokvareni drajveri nakon nadogradnje sistema."
+msgstr "Päivityksen jälkeisiä ajuririkkonaisuuksia."
 
 #: gettingstarted.html:583
 msgid "Severe graphical glitches."
-msgstr "Grafički artifakti"
+msgstr "Vakavia graafisia häiriöitä."
 
 #: gettingstarted.html:584
 msgid "Problems with applications/games requiring hardware acceleration."
 msgstr ""
-"Problemi sa aplikacijama/igrama koji zahtevaju hardversku aksceleraciju."
+"Toimimattomuutta sovellusten/pelien suhteen jotka vaativat "
+"laitteistokiihdytystä."
 
 #: gettingstarted.html:588
 msgid ""
 "<code id=\"graphics-open-driver-name\"></code> is the open source driver for"
 " your card."
 msgstr ""
-"<code id=\"graphics-open-driver-name\"></code> je drajver otvorenog koda za "
-"vašu grafičku. "
+"<code id=\"graphics-open-driver-name\"></code>on avoimen koodin ajuri "
+"näytönohjainkortillesi."
 
 #: gettingstarted.html:593
 msgid "What about the latest NVIDIA drivers?"
-msgstr "Šta je sa najnovijim NVIDIA drajverima?"
+msgstr "Entäpä viimeisimmät NVIDIA-ajurit?"
 
 #: gettingstarted.html:594
 msgid ""
@@ -924,36 +942,36 @@ msgid ""
 "which packages up the latest NVIDIA drivers for Ubuntu. These packages are "
 "not as thoroughly tested."
 msgstr ""
-"<b>Dodatni drajveri</b> dostavljaju najnovije testirane drajvere iz Ubuntu "
-"repozitorijuma. Napredni korisnici i gejmeri koji žele najnovije mogu da "
-"razmisle o dodavanju <a onclick=\"cmd('link?https://launchpad.net/~graphics-"
-"drivers/+archive/ubuntu/ppa')\"> Ubuntu Grafičkog Drajverskog PPA</a>, čiji "
-"paketi sadrže najnovije NVIDIA drajvere za Ubuntu. Ovi paketi nisu uvek "
-"previše testirani za bagove."
+"<b>Lisäajurit</b>noutaa viimeisimmän testatun ajurin Ubuntu:n "
+"ohjelmalähteistä. Edistyneet käyttäjät sekä pelaajat jotka haluavat uudempia"
+" versioita saattavat harkita <a onclick=\"cmd('link?https://launchpad.net"
+"/~graphics-drivers/+archive/ubuntu/ppa')\">Ubuntu:n garfiikka-ajureiden "
+"PPA:n</a>lisäämistä, johon pakataan valmiiksi viimeisimmät NVIDIA-ajurit "
+"Ubuntu:lle. Näiden pakettien suhteen ei ole tehty läpikotaista testausta. "
 
 #: gettingstarted.html:602
 msgid ""
 "This only applies for actively supported cards, and not older cards using "
 "the legacy driver."
 msgstr ""
-"Ovo se samo primenjuje za aktivno podržane kartice a ne i za ranije koje "
-"koriste starije drajveri. "
+"Tämä pätee vain aktiivisesti tuettuihin kortteihin, ei vanhempiin kortteihin"
+" joiden käyttö vaatii vanhanaikaisen legacy-ajurin."
 
 #: gettingstarted.html:606
 msgid "Add Repository"
-msgstr "Dodaj Repozitorijum"
+msgstr "Lisää ohjelmavarasto"
 
 #: gettingstarted.html:615
 msgid ""
 "After the PPA is added, newer versions are presented to install in <a "
 "onclick=\"cmd('drivers')\">Additional Drivers:</a>"
 msgstr ""
-"Nakon što je PPA dodat, nove verzije su prezentirane za instalaciju u okviru"
-" <a onclick=\"cmd('drivers')\">Additional Drivers:</a>"
+"Sen jälkeen kun PPA on lisätty, uudemmat versiot ilmestyvät näkyviin "
+"asennettavaksi <a onclick=\"cmd('drivers')\">Lisäajurit</a>valikossa"
 
 #: gettingstarted.html:624
 msgid "Wireless, Bluetooth and Other Devices"
-msgstr "Wireless, Bluetooh i drugi uređjaji"
+msgstr "Langaton verkko, Bluetooth ja muut laitteet"
 
 #: gettingstarted.html:627
 msgid ""
@@ -961,8 +979,9 @@ msgid ""
 "after installing the firmware packages, you may need to research your device"
 " to find the appropriate driver."
 msgstr ""
-"Ako nema dodatnih drajvera za hardware ili ako ne rade nakon instaliranje "
-"paketa, potrebno je da pornadjete tačan drajver za vaš uredjaj. "
+"Mikäli laitteiden lisäajureita ei havaittu tai ne eivät firmware-"
+"laiteajuripakettien asennuksen jälkeen toimineet, sinun pitää luultavasti "
+"etsiä lisää tietoa laitteestasi löytääksesi sopivan ajurin."
 
 #: gettingstarted.html:631
 msgid ""
@@ -971,10 +990,10 @@ msgid ""
 "insufficient documentation to create drivers for your particular brand and "
 "model."
 msgstr ""
-"Nažalost ovo je zbog toga što većina proizvođjača za vaš hardware nije "
-"pružila nikakav izvorni kod za programer koji mogu slobodno da koriste, ili "
-"ne postoji dovoljno dokumentacije kako bi se napisali drajveri za model i "
-"brand vašeg uređjaja."
+"Valitettavasti, tämä johtuu siitä tosiasiasta että laitteesi valmistaja ei "
+"ole toimittanut kehittäjille minkäänlaista vapaata lähdekoodia jota voisi "
+"käyttää, tai sitten selonteko on riittämättömän vaillinaista jotta ajurit "
+"voitaisiin luoda juuri sinun laitteesi kyseiselle merkille tai mallille."
 
 #: gettingstarted.html:637
 msgid ""
@@ -982,21 +1001,21 @@ msgid ""
 "directly. If you require assistance, feel free to <a "
 "onclick=\"smoothPageFade('community.html')\">ask the community</a>."
 msgstr ""
-"Neki proizvodjači pružaju drajvere zatvorenog koda direktno. Ako vam je "
-"potrebna pomoć slobodno <a "
-"onclick=\"smoothPageFade('community.html')\">pitajte zajednicu</a>."
+"Jotkut valmistajat saattavat toimittaa suljetun lähdekoodin ajurit jotka he "
+"toimittavat suoraan itse. Mikäli tarvitset tukea, älä epäröi <a "
+"onclick=\"smoothPageFade('community.html')\">kysyä yhteisöltä</a>."
 
 #: gettingstarted.html:643
 msgid "Read more on troubleshooting wireless hardware."
-msgstr "Pročitajte više o dijagnostikovanju problema sa wireless hardverom. "
+msgstr "Lue lisää langattoman laitteiston ongelmanratkaisusta. "
 
 #: gettingstarted.html652, 865
 msgid "Language Input"
-msgstr "Jezik za unos"
+msgstr "Kieli"
 
 #: gettingstarted.html:662
 msgid "Input method"
-msgstr "Način unosa"
+msgstr "Syöttötapa"
 
 #: gettingstarted.html:663
 msgid ""
@@ -1004,89 +1023,91 @@ msgid ""
 "between two widely used keyboard entry layouts. IBus(Intelligent Input Bus) "
 "and Fcitx(Free Chinese Input Toy for X)."
 msgstr ""
-"U <span name=\"distro-name\"></span>, nudimo opcija da menjate izmedju više "
-"izgleda za unošenja. IBus (Intelligent Input Bus) i Fcitx (Free Chinese "
-"Input Toy for X)."
+"<span name=\"distro-name\"></span>:ssa, me tarjoamme vaihtoehdon vaihtaa "
+"kahden laajasti käytetyn näppäimistösyöteasettelun kesken. IBus (Intelligent"
+" Input Bus - älykäs syöteväylä) ja Fcitx (Free Chinese Input Toy for X - "
+"vapaa kiinalainen syöte X:lle)."
 
 #: gettingstarted.html:670
 msgid "Install & Configure IBus"
-msgstr "Instaliraj i konfiguriši IBus"
+msgstr "Asenna & mukauta IBus"
 
 #: gettingstarted.html:673
 msgid "IBus is active now"
-msgstr "IBus je sada aktivan"
+msgstr "IBus on nyt toiminnassa"
 
 #: gettingstarted.html:680
 msgid "Install & Configure Fcitx"
-msgstr "Instaliraj i konfiguriši Fcitx"
+msgstr "Asenna & mukauta Fcitx"
 
 #: gettingstarted.html:682
 msgid "Fcitx is active now"
-msgstr "Fcitx je sada aktivan"
+msgstr "Fcitx on nyt toiminnassa"
 
 #: gettingstarted.html691, 698
 msgid "Language Support"
-msgstr "Podrška za jezik"
+msgstr "Kielituki"
 
 #: gettingstarted.html:692
 msgid ""
 "Your computer may require updates to your language and localization "
 "settings, or you may want to install additional language support."
 msgstr ""
-"Vaš kompjuter može zahtevati dodatna ažuriranja za vaš jezik i podešavanja "
-"za lokalizaciju ili možete želeti da instalirate podršku za dodatni jezik. "
+"Tietokoneeseesi tarvitaan luultavasti päivityksiä kieli- ja "
+"kotoistusasetuksiisi, tai sitten voit haluta asentaa lisäkielituen."
 
 #: gettingstarted.html:702
 msgid ""
 "<b>Language Support</b> can be found later in <b><i>Settings <i class"
 "=\"material-icons\">&#xE315;</i> Region & Language</i></b>"
 msgstr ""
-"<b> Jezička podrška</b> može se nači u <b><i> Settings <i class=\"material-"
-"icons\">&#xE315;</i>Region & Language</i></b>"
+"<b>Kielituki</b>löytyy myöhemmin paikasta <b><i> Asetukset <i class"
+"=\"material-icons\">&#xE315;</i> Alue & kieli</i></b>"
 
 #: gettingstarted.html:711
 msgid "Complex Input"
-msgstr "Kompleksni unos"
+msgstr "Monimutkainen syöte"
 
 #: gettingstarted.html:712
 msgid "Some regions of the world require complex inputs."
-msgstr " Neki regioni u svetu zahtevaju kompleksne jezičke unose."
+msgstr "Jotkut maailman alueet vaativat monimutkaisemman syötemallin."
 
 #: gettingstarted.html:717
 msgid "Chinese"
-msgstr "Kineski"
+msgstr "Kiina"
 
 #: gettingstarted.html:728
 msgid "Japanese"
-msgstr "Japanski"
+msgstr "Japani"
 
 #: gettingstarted.html:739
 msgid "Korean"
-msgstr "Korejski"
+msgstr "Korea"
 
 #: gettingstarted.html:763
 msgid "Backup, Firewall and User Management"
-msgstr "Backup, Firewall i Korisnički Menadžment"
+msgstr "Varmuuskopiointi, palomuuri ja käyttäjähallinta"
 
 #: gettingstarted.html:764
 msgid ""
 "<span name=\"distro-name\"></span> provides option to install a backup "
 "utility or firewall and supports multiple user accounts."
 msgstr ""
-"<span name=\"distro-name\"></span> pruža više opcija da instalirate alat za "
-"backupovanje podataka i firewall koji podržavaju više korisnika."
+"<span name=\"distro-name\"></span>tarjoaa varmuuskopiointityökalun tai "
+"palomuurin asennuksen ja se tukee useita käyttäjätilejä."
 
 #: gettingstarted.html:775
 msgid "Backups"
-msgstr "Backups"
+msgstr "Varmuuskopiot"
 
 #: gettingstarted.html:776
 msgid ""
 "Nothing is more important than having a backup of your personal files, just "
 "in case something disastrous happens to your computer."
 msgstr ""
-"Ništa nije važno nego da imate backup svojih fajlova u slučaju da se nešto "
-"neplanirano desi sa vašim računarom. "
+"Mikään ei ole tärkeämpää kuin että omaat varmuuskopiot henkilökohtaisista "
+"tiedostoistasi, siltä varalta että tietokoneellesi tapahtuu jokin "
+"onnettomuus. "
 
 #: gettingstarted.html:780
 msgid ""
@@ -1094,25 +1115,25 @@ msgid ""
 "name=\"distro-name\"></span> and supports backups to local devices as well "
 "as online cloud-based services."
 msgstr ""
-"<b>Deja-Dup</b> je moćan alat za backup koji se može instalirati u <span "
-"name=\"distro-name\"></span> i podržava backup na lokalne uredjaje kao i na "
-"cloud servere."
+"<b>Deja-Dup</b> on tehokas varmuuskopiointityökalu joka voidaan asentaa "
+"<span name=\"distro-name\"></span>:n sekä tukee varmuuskopiointia "
+"paikallisiin- kuten myös verkon pilvipohjaisiin palveluihin."
 
 #: gettingstarted.html:791
 msgid "Configure Backup"
-msgstr "Konfiguriši Backup"
+msgstr "Määrittele varmuuskopio"
 
 #: gettingstarted.html:794
 msgid ""
 "<b>Backups</b> can be found later in the menu <b>Utilities <i class"
 "=\"material-icons\">&#xE315;</i> Backups</b>."
 msgstr ""
-"<b>Backups</b> mogu biti pronadjene u meniju <b>2Utilities <i class"
-"=\"material-icons\">&#xE315;</i>Backups</b>."
+"<b>Varmuuskopiot</b>löytyvät myöhemmin valikosta <b>Apuohjelmat<i class"
+"=\"material-icons\">&#xE315;</i>Varmuuskopiot</b>."
 
 #: gettingstarted.html:807
 msgid "Firewall"
-msgstr "Firewall"
+msgstr "Palomuuri"
 
 #: gettingstarted.html:808
 msgid ""
@@ -1121,10 +1142,10 @@ msgid ""
 "onclick=\"cmd('link?https://help.ubuntu.com/community/DoINeedAFirewall')\">learn"
 " more about firewalls</a>."
 msgstr ""
-"Firewall sprečava zlonamerne konekcije da udju i napuste vaš kompjuter. Po "
-"defaultu, firewall je onemogućen <a "
-"onclick=\"cmd('link?https://help.ubuntu.com/community/DoINeedAFirewall')\">naučite"
-" više o firewall-u</a>."
+"Palomuuri estää haitallisten yhteyksien sisään- ja ulospääsyn "
+"tietokoneessasi. Vakiollisesti, palomuuri on kytketty pois päältä, <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/DoINeedAFirewall')\">lue"
+" lisää palomuureista</a>."
 
 #: gettingstarted.html:813
 msgid ""
@@ -1133,14 +1154,15 @@ msgid ""
 "onclick=\"cmd('link?https://wiki.ubuntu.com/BasicSecurity')\">more ways to "
 "stay secure too</a>."
 msgstr ""
-"<b>Gufw</b> pruža grafički panel za <code>ufw</code> (Nekomplikovani "
-"firewall). Ako vam je bezbednost važna postoje <a "
-"onclick=\"cmd('link?https://wiki.ubuntu.com/BasicSecurity')\"> više načina "
-"da ostanete bezbedni</a>."
+"<b>Gufw</b>tarjoaa graafisen etuasteen <code>ufw:lle</code>(Uncomplicated "
+"Firewall - mutkaton palomuuri). Mikäli turvallisuus on sinulle tärkeätä, on "
+"olemassa <a "
+"onclick=\"cmd('link?https://wiki.ubuntu.com/BasicSecurity')\">myös edelleen "
+"lisää tapoja pysyä turvassa</a>."
 
 #: gettingstarted.html:824
 msgid "Configure Firewall"
-msgstr "Konfiguriši Firewall"
+msgstr "Määrittele palomuuri"
 
 #: gettingstarted.html:827
 msgid ""
@@ -1148,13 +1170,13 @@ msgid ""
 "=\"material-icons\">&#xE315;</i> System <i class=\"material-"
 "icons\">&#xE315;</i> Firewall Configuration</i></b>."
 msgstr ""
-"Firewall Konfiguracija </b> može se naći u <b><i>Settings<i class"
-"=\"material-icons\">&#xE315;</i> System <i class=\"material-"
-"icons\">&#xE315;</i>Firewall Configuration</i></b>."
+"Palomuurin asetukset</b>löytyy myöhemmin paikasta <b><i>Asetukset<i class"
+"=\"material-icons\">&#xE315;</i>Järjestelmä<i class=\"material-"
+"icons\">&#xE315;</i>Palomuurin asetukset</i></b>."
 
 #: gettingstarted.html:841
 msgid "Users"
-msgstr "Korisnici"
+msgstr "Käyttäjät"
 
 #: gettingstarted.html:843
 msgid ""
@@ -1162,54 +1184,54 @@ msgid ""
 "user to protect the individual privacy of each user sharing the same "
 "computer."
 msgstr ""
-"Delite svoj kompjuter sa drugima? Podesite posebni korisnički nalog za "
-"svakog korisnika kako bi zaštitili privatnost korisnika koji dele isti "
-"kompjuter."
+"Jaatko tietokoneesi muiden kanssa? Tee erilliset käyttäjätilit jokaiselle "
+"käyttäjälle turvataksesi henkilökohtaisen yksityisyydensuojan jokaiselle "
+"käyttäjälle joka jakaa tietokoneesi."
 
 #: gettingstarted.html:846
 msgid ""
 "You can also log in to a <b>Guest Session</b> if someone is using your "
 "computer as a one-off."
 msgstr ""
-"Takođje možete da se ulogujete u <b>Gostujuću Sesiju</b> ako je nekom "
-"potrebno da koristi vaš kompjuter samo jedanput."
+"Voit myös sisäänkirjautua <b>Vierasistunnolle</b>mikäli joku käyttää "
+"tietokonettasi kertaluontoisesti."
 
 #: gettingstarted.html:851
 msgid "Configure Users"
-msgstr "Konfiguriši Korisnike"
+msgstr "Määritä käyttäjät"
 
 #: gettingstarted.html:854
 msgid ""
 "<b>Users</b> can be found later in the menu <b><i>Administration <i class"
 "=\"material-icons\">&#xE315;</i> Users</i></b>."
 msgstr ""
-"<b>Korisnici</b> se mogu naći u meniju u okviru <b><i>Administration<i class"
-"=\"material-icons\">&#xE315;</i> Users</i></b>."
+"<b>Käyttäjät</b>löytyvät myöhemmin valikosta <b><i>Järjestelmänhallinta <i "
+"class=\"material-icons\">&#xE315;</i>Käyttäjät</i></b>."
 
 #: gettingstarted.html:873
 msgid ""
 "To improve the amount of customizability, <span name=\"distro-name\"></span>"
 " allows you to install/remove popular web browsers with a single click."
 msgstr ""
-"Kako biste poboljašli količinu promenjlivosti <span name=\"distro-"
-"name\"></span> vam dozvoljava da instalirate, deinstalirate popularne web "
-"browsere sa jednim klikom."
+"Mukautuksen parantamiseksi, <span name=\"distro-name\"></span>antaa sinun "
+"asentaa/poistaa suosittuja internet-selaimia yhdellä napsautuksella."
 
 #: gettingstarted.html880, 905
 msgid ""
 "Chromium is an open-source browser project that aims to build a safer, "
 "faster, and more stable way for all Internet users to experience the web."
 msgstr ""
-"Chromium je otvorenog koda browser projekat koji cilja da pruži bezbedniji, "
-"brži i stabilniji način za sve internet korisnike da dožive Web. "
+"Chromium on avoimen ohjelmistokoodin selainhanke joka tähtää "
+"turvallisempaan, nopeampaan ja vakaampaan verkkokokemukseen kaikille "
+"internet:in käyttäjille."
 
 #: gettingstarted.html893, 909, 935, 986, 1005, 1027, 1045
 msgid "Snap Install"
-msgstr "Snap Instalacija"
+msgstr "Snap-asennus"
 
 #: gettingstarted.html896, 912, 938
 msgid "Snap Remove"
-msgstr "Snap deinstalacija"
+msgstr "Snap-poisto"
 
 #: gettingstarted.html:919
 msgid "Firefox"
@@ -1221,9 +1243,10 @@ msgid ""
 "Mozilla Foundation - a not for profit organisation. It is highly popular "
 "targeting multiple platforms."
 msgstr ""
-"Mozilla Firefox je besplatni i otvorenog koda web browser, razvije od strane"
-" Mozilla Fondacije - neprofitne organizacije. Veoma je popularan na više "
-"različitih platformi. "
+"Mozilla Firefox on vapaa ja avoimen ohjelmakoodin internet-selain, jota "
+"kehittää säätiö Mozilla Foundation - rahallista voittoa tavoittelematon "
+"ryhmittymä. Se on erittäin suosittu ja tähtää lukuisten alustojen "
+"tukemiseen.  "
 
 #: gettingstarted.html:950
 msgid ""
@@ -1231,27 +1254,27 @@ msgid ""
 "offers a smooth browsing experience plus integration with Google's "
 "proprietary services."
 msgstr ""
-"Google Chrome je moderan web browser koji je podržan od strane Google-a. "
-"Nudi fluidno korisničko iskustvo i integraciju sa Google vlasničkim "
-"servisima. "
+"Google Chrome on nykyaikainen internet-selain jonka taustavoimana on "
+"internet:in jättiläinen Google. Se tarjoaa sulavan verkkoselauskokemuksen "
+"sekä yhtenevyyden Google:n omisteisten palvelujen kanssa."
 
 #: gettingstarted.html:965
 msgid ""
 "Vivaldi Web Browser is a free, fully customizable web browser. Feature rich,"
 " powerful, secure and fun! Browse the Web your way"
 msgstr ""
-"Vivaldi Web Browser je besplatni, totalno podesiv, web browser. Bogat "
-"mogućnostima, moćan i bezbedan i zabavan! Surfujte webom onako kako vi "
-"želite."
+"Vivaldi Web Browser on vapaa, kokonaisvaltaisesti muokattavaissa oleva "
+"internet-selain. Ominaisuuksiltaan rikas, tehokas, turvallinen ja hauska! "
+"Selaa verkkoa omalla tavallasi."
 
 #: gettingstarted.html:983
 msgid ""
 "Opera is a fast and secure browser. Developed in Europe, used by millions "
 "around the world. Now with a built-in ad blocker and free VPN."
 msgstr ""
-"Opera je brzi i bezbedni browser. Razvijen u Evropi, korišćen od strane "
-"milione korisnika širom sveta. Sada sa ugradjenim blokatorom reklama i "
-"besplatnim VPN-om."
+"Opera on nopea ja turvallinen selain. Euroopassa kehitetty, miljoonien "
+"käyttämä ympäri maailmaa. Mukana on nyt sisäänrakennettu mainosten esto ja "
+"ilmainen VPN."
 
 #: gettingstarted.html:998
 msgid ""
@@ -1260,10 +1283,10 @@ msgid ""
 "machines with a core temperature exceeding that of planet earth. And it "
 "looks good doing that, too. Oh, and of course it's free software."
 msgstr ""
-"Midori je lagani ali moćni web browser koji se može pokrenuti na embed "
-"računarima, koji je ime dobio po ukusnom kolaču, pa do na moćnim mašinama "
-"čija temperatura jezgra je veća od zemljinog. I izgleda dobro dok to radi. "
-"Oh, i naravno besplatan je softver."
+"Midori on kevyt mutta tehokas internet-selain joka pyörii yhtä hyvin "
+"pienissä sulautetuissa tietokoneissa kuin suupalana kuten myös "
+"muskelimyllyissä joiden ydinlämpötila ylittää Maan vastaavan. Ja se tekee "
+"asiansa myös näyttävästi. Niin, ja tietenkin se on osa vapaita ohjelmistoja."
 
 #: gettingstarted.html:1020
 msgid ""
@@ -1273,12 +1296,11 @@ msgid ""
 "this is the browser for you. GNOME Web is often referred to by its code "
 "name, Epiphany."
 msgstr ""
-"Web pretraživač za GNOME, sa potpuno integracijom u desktop okruženje sa "
-"jednostavnim i intuitivnim korisničkim intefejsom koji omogućava da se "
-"foksurati na posete Vašim web stranicama. Ukoliko tražite, jednostavan, lep,"
-" i jednostavan pretraživač za pregled Interneta onda je ovo browser za Vas. "
-"Gnome Web se vrlo češto referiše pod svojim sifrovanim imenom projekta, "
-"Epiphany."
+"Internet-selain GNOME:lle, ominaisuuksiin kuuluu työpöytäsulautus sekä "
+"helppo ja intuitiivinen käyttöliittymä joka antaa sinun keskittyä "
+"verkkosivuihisi. Jos etsit yksinkertaista, selkeää, kaunista verkkonäkymää, "
+"tämä on sinun selaimesi. GNOME Web tulee usein viitatuksi koodinimensä "
+"johdosta muodossa Epiphany."
 
 #: gettingstarted.html:1041
 msgid ""
@@ -1287,14 +1309,15 @@ msgid ""
 "avoiding persistent cookies or web trackers. Close the window and all traces"
 " of your browsing are removed from your device."
 msgstr ""
-"Pretražujte Internet u privatnosti bez ostavljanja traga vaše istorije "
-"pretrage na računaru. Ephemeral je minimalni privatni browser koji je "
-"savršen za izbegavanje dugotrajnih kolačića i web pratača. Zatvorite i "
-"prozor i tragovi vaše pretrage su uklonjeni sa vašeg računara."
+"Selaa internet:iä yksityisesti tietokoneessasi selaushistoriasta jälkiä "
+"jättämättä. Ephemeral on riisuttu yksityisyyteen panostava selain joka on "
+"täydellinen välttämään periksiantamattomat evästeet tai verkkoseuraimet. "
+"Sulje vain ikkuna ja kaikki jäljet selaushistoriasi tiimoilta poistuvat "
+"laitteestasi."
 
 #: gettingstarted.html:1062
 msgid "User Interface"
-msgstr "Korisnički interfejs"
+msgstr "Käyttöliittymä"
 
 #: gettingstarted.html:1063
 msgid ""
@@ -1302,24 +1325,26 @@ msgid ""
 "user interface. It can be used to quickly setup the user interface to "
 "broadly reflect how other popular operating systems look and feel."
 msgstr ""
-"<span name=\"distro-name\"></span> pruža unikatni alat za transformaciju "
-"korisničkog interfejsa. Može se iskoristiti da brzo podesite interfejs koji "
-"reflektuje izgled koji drugi operativni sistem koriste. "
+"<span name=\"distro-name\"></span>tarjoaa ainutlaatuisen työkalun "
+"muovataksesi käyttöliittymää. Sitä voidaan käyttää pikaiseen "
+"käyttöliittymäasetteluun joka laajassa mielessä mallintaa muiden suosittujen"
+" käyttöjärjestelmien ulkoasua ja tuntumaa. "
 
 #: gettingstarted.html:1070
 msgid "Budgie Desktop Settings"
-msgstr "Budgie Desktop Settings"
+msgstr "Budgie-työpöydän Asetukset"
 
 #: gettingstarted.html:1073
 msgid ""
 "<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
 "Tools</b>."
 msgstr ""
-"<b>Budgie Desktop Settings</b> mogu se pronaći u podmeniju  System Tools<b>."
+"<b>Budgie-työpöydän asetukset</b>löytyvät myöhemmin valikossa paikasta "
+"<b>Järjestelmätyökalut</b>."
 
 #: gettingstarted.html1079, 1085
 msgid "Settings"
-msgstr "Sistemska podešavanja"
+msgstr "Asetukset"
 
 #: gettingstarted.html:1080
 msgid ""
@@ -1327,53 +1352,54 @@ msgid ""
 " center that <span name=\"distro-name\"></span> provides. You can configure "
 "just about every aspect of your computer from Settings."
 msgstr ""
-"Alati pomenuti gore su svi deo ekstenzivne Settings kontrolnog centra koje "
-"<span name=\"distro-name\"></span> pruža. Možete da konfigurišete bilo koji "
-"aspekt izgleda vašeg računara iz Settings-a."
+"Yllämainitut apuohjelmat ovat kaikki osana laaja-alaista asetuskeskusta "
+"jonka <span name=\"distro-name\"></span>tarjoaa. Voit mukauttaa lähestulkoon"
+" jokaista tietokoneesi osa-aluetta Asetuksista.  "
 
 #: gettingstarted.html:1104
 msgid ""
 "<span name=\"distro-name\"></span> has many keyboard shortcuts that help "
 "make using your computer more efficient."
 msgstr ""
-"<span name=\"distro-name\"></span> ima mnoštvo prečica za tastatura koje vam"
-" omogućuju efikasniji rad. "
+"<span name=\"distro-name\"></span>omaa monia näppäinoikopolkuja jotka "
+"auttavat tekemään tietokoneesi käytöstä tehokkaampaa."
 
 #: gettingstarted.html:1108
 msgid ""
 "The <b><img src=\"img/welcome/super-key.svg\" /> Super</b> key is your "
 "Windows key. For Mac keyboards, this is the ⌘ Command key."
 msgstr ""
-"<b><img src=\"img/welcome/super-key.svg\" />Super</b>dugme je Windows dugme."
-" Za Mac tastature, ovo dugme je Komandno dugme ⌘."
+"<b><img src=\"img/welcome/super-key.svg\" />Super</b>näppäimeksi nimitetty "
+"näppäin on mahdollinen Windows-näppäin. Mac-näppäimistöille, saman asian "
+"ajaa ⌘ käskynäppäin."
 
 #: gettingstarted.html:1111
 msgid "Budgie Desktop shortcuts"
-msgstr "Budgie Desktop Prečice."
+msgstr "Budgie-työpöydän oikopolut"
 
 #: gettingstarted.html:1112
 msgid "Some common shortcuts used in Budgie Desktop"
-msgstr "Neke od čestih prečica korišćene u Budgie Desktopu. "
+msgstr "Joitakin yleisesti käytettyjä Budgie-työpöydän oikopolkuja"
 
 #: gettingstarted.html:1122
 msgid "Open notifications in Raven"
-msgstr "Otvori notifikacije u Raven-u."
+msgstr "Avaa ilmoitukset Raven:issa"
 
 #: gettingstarted.html:1131
 msgid "Open applet Settings in Raven"
-msgstr "Otvori podešavanje dodataka Settings u Raven-u."
+msgstr "Avaa sovellutus Asetukset Raven:issa"
 
 #: gettingstarted.html:1136
 msgid "Common application shortcuts"
-msgstr "Česte aplikacijske prečice"
+msgstr "Yleisiä sovellusoikopolkuja"
 
 #: gettingstarted.html:1137
 msgid "These shortcuts apply in most applications."
-msgstr "Ove prečice važe u većni aplikacija"
+msgstr "Nämä oikopolut toimivat useimmissa sovelluksissa."
 
 #: gettingstarted.html:1146
 msgid "Toggle Tilix Quake Mode"
-msgstr "Menjaj Tilix Quake Mode"
+msgstr "Vaihda Tilix Quake -tila"
 
 #: gettingstarted.html1150, 1158, 1166, 1174, 1182, 1190, 1198, 1206, 1214,
 #: 1222, 1230, 1238, 1246, 1254, 1262, 1294, 1310, 1340, 1359, 1373, 1421,
@@ -1383,247 +1409,252 @@ msgstr "Ctrl"
 
 #: gettingstarted.html:1154
 msgid "Copy the selected text/object"
-msgstr "Kopiraj selektovani tekst ili objekat."
+msgstr "Kopioi valittu teksti/kohde"
 
 #: gettingstarted.html:1162
 msgid "Cut the selected text/object"
-msgstr "Iseci selektovani tekst ili objekat."
+msgstr "Leikkaa valittu teksti/kohde"
 
 #: gettingstarted.html:1170
 msgid "Paste/insert the selected text/object"
-msgstr "Paste/Insert selektovani tekst ili objekat."
+msgstr "Liimaa/aseta valittu teksti/kohde"
 
 #: gettingstarted.html:1178
 msgid "Select all text"
-msgstr "Selektuj čitav tekst"
+msgstr "Valitse kaikki teksti"
 
 #: gettingstarted.html:1186
 msgid "Find words"
-msgstr "Pronadji reč"
+msgstr "Etsi sanoja"
 
 #: gettingstarted.html:1194
 msgid "Find and replace words"
-msgstr "Pronadji i zameni reči"
+msgstr "Etsi ja korvaa sanoja"
 
 #: gettingstarted.html:1202
 msgid "Make the selected text bold"
-msgstr "Boldiraj selektovani tekst"
+msgstr "Lihavoi valittu teksti"
 
 #: gettingstarted.html:1210
 msgid "Make the selected text italic"
-msgstr "Postavi selektovani tekst u italik"
+msgstr "Kursivoi valittu teksti"
 
 #: gettingstarted.html:1218
 msgid "Underline the selected text"
-msgstr "Podvuci selektovani tekst"
+msgstr "Alleviivaa valittu teksti"
 
 #: gettingstarted.html:1226
 msgid "Open a new document or window"
-msgstr "Otvori novi dokument ili prozor"
+msgstr "Avaa uusi asiakirja tai ikkuna"
 
 #: gettingstarted.html:1234
 msgid "Save the current document"
-msgstr "Sačuvaj trenutni dokument"
+msgstr "Tallenna nykyinen asiakirja"
 
 #: gettingstarted.html:1242
 msgid "Open another document"
-msgstr "Otvori drugi dokument"
+msgstr "Avaa toinen asiakirja"
 
 #: gettingstarted.html:1250
 msgid "Print the current document"
-msgstr "Štampaj trenutni dokument"
+msgstr "Tulosta nykyinen asiakirja"
 
 #: gettingstarted.html:1258
 msgid "Undo the last change you made"
-msgstr "Vratite promenu koju ste napravili. "
+msgstr "Kumoa viimeksi tekemäsi muutos"
 
 #: gettingstarted.html1264, 1292, 1302, 1445, 1456
 msgid "Shift"
-msgstr "Shift."
+msgstr "Shift-vaihtonäppäin"
 
 #: gettingstarted.html:1268
 msgid "Redo a change that you just undid"
-msgstr "Vrati promenu koju ste upravo izbrisali."
+msgstr "Uudelleentuo muutos jonka juuri kumosit"
 
 #: gettingstarted.html:1274
 msgid "Toggle the current application between full-screen and windowed"
-msgstr "Menjaj izmedju aplikacija koje su u prozoru i maksimizirane."
+msgstr "Vaihtele nykyisen sovelluksen kokoruutu- tai ikkunatilaa"
 
 #: gettingstarted.html:1278
 msgid "Desktop shortcuts"
-msgstr "Desktop prečice."
+msgstr "Työpöydän oikopolut"
 
 #: gettingstarted.html:1279
 msgid ""
 "This section lists common keyboard shortcuts which you can use to operate "
 "parts of the desktop."
 msgstr ""
-"Ova sekcija sadrži listu često korišćenih prečica na tastaturi koje moćete "
-"da iskoristite u svom radu. "
+"Tämä osa-alue luetteloi yleiset näppäinoikopolut joita voit käyttää "
+"työpöytäsi osien ohjaamiseen."
 
 #: gettingstarted.html:1288
 msgid "Open Applications menu"
-msgstr "Otvori meni aplikacija"
+msgstr "Avaa sovellusvalikko"
 
 #: gettingstarted.html:1298
 msgid "Copy a screenshot of an area to clipboard"
-msgstr "Kopiraj screenshot selektovanog dela u clipboard"
+msgstr "Kopioi tietyn alueen kuvakaappaus leikepöydälle"
 
 #: gettingstarted.html:1306
 msgid "Save a screenshot of an area to the Pictures directory"
-msgstr "Sačuvaj screenshot selektovanog dela u folderu Slike"
+msgstr "Tallenna kuvakaappaus tietyltä alueelta Kuvat-kansioon "
 
 #: gettingstarted.html:1314
 msgid "Copy a screenshot of a window to clipboard"
-msgstr "Kopiraj screenshot prozora u clipboard"
+msgstr "Kopioi kuvakaappaus ikkunasta leikepöydälle"
 
 #: gettingstarted.html1318, 1332, 1342, 1361, 1375, 1406, 1423, 1433, 1443,
 #: 1455, 1464, 1472, 1480, 1488, 1523, 1594, 1604, 1614, 1624, 1634, 1644,
 #: 1654, 1664, 1674
 msgid "Alt"
-msgstr "Alt"
+msgstr "Alt-näppäin"
 
 #: gettingstarted.html:1322
 msgid "Save a screenshot of a window to the Pictures directory"
-msgstr "Sačuvaj screenshot prozora u folderu Slike"
+msgstr "Tallenna kuvakaappaus ikkunasta Kuvat-kansioon"
 
 #: gettingstarted.html:1328
 msgid "Save a screenshot to the Pictures directory"
-msgstr "Sačuvaj screenshot u folderu Slike"
+msgstr "Tallenna kuvakaappaus Kuvat-kansioon"
 
 #: gettingstarted.html:1336
 msgid "Run an application by typing its name in the box which appears"
-msgstr "Pokrenite aplikaciju kucajući njemo ime u kutiji koja se pojavi"
+msgstr "Aja sovellus syöttäen ilmestyvään laatikkoon sen nimi"
 
 #: gettingstarted.html:1344
 msgid "Delete"
-msgstr "Obriši"
+msgstr "Poista"
 
 #: gettingstarted.html:1346
 msgid "Logout"
-msgstr "Logout"
+msgstr "Uloskirjaus"
 
 #: gettingstarted.html:1355
 msgid "Lock your screen."
-msgstr "Zaključaj ekran."
+msgstr "Lukitse ruutu"
 
 #: gettingstarted.html:1365
 msgid "Open a terminal."
-msgstr "Otvori terminal."
+msgstr "Avaa pääte."
 
 #: gettingstarted.html:1369
 msgid "Window shortcuts - general"
-msgstr "Prečice prozora - generalno"
+msgstr "Ikkunaoikopolut - yleiset"
 
 #: gettingstarted.html1379, 1395
 msgid "Call Window Shuffler gui (window tiling grid)."
-msgstr "Pokreni interfejs mešača prozora (deljač prozora u ravni)"
+msgstr ""
+"Kutsu Window Shuffler -ikkunasatunnaistajan graafinen käyttöliittymä "
+"(ikkunalomituksen ritilöinti)."
 
 #: gettingstarted.html1384, 1400
 msgid "Video Demonstration"
-msgstr "Video demonstracija"
+msgstr "Video-esitelmä"
 
 #: gettingstarted.html:1408
 msgid "Tab"
-msgstr "Tab"
+msgstr "Tab-näppäin"
 
 #: gettingstarted.html:1411
 msgid "Switch between currently-open windows."
-msgstr "Prebaci izmedju trenutno otvrenih prozora."
+msgstr "Vaihtele tällä hetkellä avoinna olevien ikkunoiden välillä."
 
 #: gettingstarted.html:1413
 msgid "Press Alt + Tab and then release Tab (but continue to hold Alt)."
 msgstr ""
-"Pritisnite Alt + Tab i onda pustite Tab (ali nastavite da držite Alt)."
+"Paina alas Alt + Tab jonka jälkeen vapauta Tab (mutta jatka Alt-näppäimen "
+"alaspainamista)."
 
 #: gettingstarted.html:1414
 msgid ""
 "Press Tab repeatedly to cycle through the list of available windows which "
 "appears on the screen."
 msgstr ""
-"Pritisnite Tab više puta kako bi videli listu svih prozora koji se "
-"pojavljuju na ekranu."
+"Paina Tab-näppäintä jatkuvasti kierrättääksesi tarjolla olevia avoimia "
+"ikkunoita jotka ilmenevät ruudulla."
 
 #: gettingstarted.html1425, 1447, 1535
 msgid "Left"
-msgstr "Levo"
+msgstr "Vasen-nuolinäppäin"
 
 #: gettingstarted.html:1427
 msgid "Switch to the previous workspace."
-msgstr "Predji na prethodnu radnu površinu."
+msgstr "Vaihda edelliseen työtilaan."
 
 #: gettingstarted.html1435, 1458, 1544
 msgid "Right"
-msgstr "Desno"
+msgstr "Oikea-nuolinäppäin"
 
 #: gettingstarted.html:1437
 msgid "Switch to the next workspace."
-msgstr "Predji na sledecu radnu površinu."
+msgstr "Vaihda seuraavaan työtilaan."
 
 #: gettingstarted.html:1449
 msgid "Move the current window to the previous workspace."
-msgstr "Pomeri trenutni prozor na prethodnu radnu površinu."
+msgstr "Siirrä nykyinen ikkuna edelliseen työtilaan."
 
 #: gettingstarted.html:1460
 msgid "Move the current window to the next workspace."
-msgstr "Pomeri trenutni prozor na sledeću radnu površinu."
+msgstr "Siirrä nykyinen ikkuna seuraavaan työtilaan."
 
 #: gettingstarted.html:1468
 msgid "Closes window."
-msgstr "Zatvara prozor."
+msgstr "Sulkee ikkunan."
 
 #: gettingstarted.html:1476
 msgid "Returns window to 'normal' or previous size."
-msgstr "Vrazi porzor na normalnu ili prethodnu veličinu."
+msgstr "Palauttaa ikkunan 'tavalliseksi' tai edelliseen kokoon."
 
 #: gettingstarted.html:1484
 msgid "Moves the current window (can be moved with mouse or keyboard)."
-msgstr "Pomeri trenutni prozor (sa mišom ili tastaturom)."
+msgstr ""
+"Siirtää nykyisen ikkunan (voidaan liikuttaa hiirellä tai näppäimistöllä). "
 
 #: gettingstarted.html:1492
 msgid "Resizes current window (again, can be moved with mouse or keyboard)."
 msgstr ""
-"Promeni veličinu prozora (opet možete ga poemeriti sa mišom ili tastaturom)."
+"Muutta nykyisen ikkunan kokoa (taas, voidaan liikuttaa hiirellä tai "
+"näppäimistöllä)."
 
 #: gettingstarted.html:1501
 msgid "Minimizes current window."
-msgstr "Minimizuj trenutni prozor."
+msgstr "Pienentää nykyisen ikkunan."
 
 #: gettingstarted.html:1508
 msgid "Up"
-msgstr "Gore"
+msgstr "Ylös-nuolinäppäin"
 
 #: gettingstarted.html:1510
 msgid "Maximizes current window."
-msgstr "Maksimiziraj trenutni prozor."
+msgstr "Suurentaa nykyisen ikkunan."
 
 #: gettingstarted.html:1517
 msgid "Down"
-msgstr "Dole"
+msgstr "Alas-nuolinäppäin"
 
 #: gettingstarted.html:1519
 msgid "Unmaximizes current window."
-msgstr "Spusti trenutni prozor."
+msgstr "Poissuurentaa nykyisen ikkunan."
 
 #: gettingstarted.html:1525
 msgid "Space"
-msgstr "Prostor"
+msgstr "Välilyönti"
 
 #: gettingstarted.html:1527
 msgid ""
 "Displays the window menu with options such as 'Always on Top' and 'Minimize'"
 " and 'Maximize' and above commands."
 msgstr ""
-"Prikazuje prozorski meni sa opcijama kao što su \"Always on Top\",  "
-"\"Minimize\" i \"Maximize\" i druge komande iznad."
+"Näyttää ikkunavalikon joissa näkyy vaihtoehtoja kuten 'Aina päällimmäisenä' "
+"ja 'Pienennä' sekä 'Suurenna' kuten myös ylläolevat käskyt."
 
 #: gettingstarted.html:1537
 msgid "Place window on left side of screen."
-msgstr "Postavi prozor na levoj strani ekrana."
+msgstr "Aseta ikkuna ruudun vasemmalle puolelle."
 
 #: gettingstarted.html:1546
 msgid "Place window on right side of screen."
-msgstr "Postavi prozor na desnoj strani ekrana."
+msgstr "Aseta ikkuna ruudun oikealle puolelle."
 
 #: gettingstarted.html1553, 1626
 msgid "1"
@@ -1631,7 +1662,7 @@ msgstr "1"
 
 #: gettingstarted.html:1555
 msgid "Quarter tiling: top left."
-msgstr "Četvrtina podeljivanja: gore levo"
+msgstr "Sälytys neljännekseen: vasemmalle ylös."
 
 #: gettingstarted.html1562, 1656
 msgid "2"
@@ -1639,7 +1670,7 @@ msgstr "2"
 
 #: gettingstarted.html:1564
 msgid "Quarter tiling: top right."
-msgstr "Četvrtina podeljivanja: gore desno"
+msgstr "Sälytys neljännekseen: oikealle ylös."
 
 #: gettingstarted.html1571, 1616
 msgid "3"
@@ -1647,7 +1678,7 @@ msgstr "3"
 
 #: gettingstarted.html:1573
 msgid "Quarter tiling: bottom left."
-msgstr "Četvrtina podeljivanja: dole levo"
+msgstr "Sälytys neljännekseen: alas vasemmalle."
 
 #: gettingstarted.html1580, 1666
 msgid "4"
@@ -1655,15 +1686,15 @@ msgstr "4"
 
 #: gettingstarted.html:1582
 msgid "Quarter tiling: bottom right."
-msgstr "Četvrtina podeljivanja: dole desno"
+msgstr "Sälytys neljännekseen: alas oikealle."
 
 #: gettingstarted.html:1587
 msgid "Window shortcuts - numeric keypad"
-msgstr "Prozorne prečice - numerička tastatura"
+msgstr "Ikkunaoikopolut - numeronäppäimistö"
 
 #: gettingstarted.html:1588
 msgid "Tiling shortcuts on the numeric keypad."
-msgstr "Podeljivac prozora prečice na numeričkoj tastaturi."
+msgstr "Sälytyksen oikopolut numeronäppäimistössä."
 
 #: gettingstarted.html:1596
 msgid "7"
@@ -1671,7 +1702,7 @@ msgstr "7"
 
 #: gettingstarted.html:1598
 msgid "Quarter top left."
-msgstr "Četvrtina gore desno"
+msgstr "Neljännes vasemmalle ylös."
 
 #: gettingstarted.html:1606
 msgid "9"
@@ -1679,15 +1710,15 @@ msgstr "9"
 
 #: gettingstarted.html:1608
 msgid "Quarter top right."
-msgstr "Četvrtina gore desno"
+msgstr "Neljännes oikealle ylös."
 
 #: gettingstarted.html:1618
 msgid "Quarter bottom right."
-msgstr "Četvrtina dole desno"
+msgstr "Neljännes oikealle alas."
 
 #: gettingstarted.html:1628
 msgid "Quarter bottom left."
-msgstr "Četvrtina dole levo"
+msgstr "Neljännes vasemmalle alas."
 
 #: gettingstarted.html:1636
 msgid "8"
@@ -1695,7 +1726,7 @@ msgstr "8"
 
 #: gettingstarted.html:1638
 msgid "Half top."
-msgstr "Pola gore"
+msgstr "Yläosan puolisko."
 
 #: gettingstarted.html:1646
 msgid "6"
@@ -1703,15 +1734,15 @@ msgstr "6"
 
 #: gettingstarted.html:1648
 msgid "Half right."
-msgstr "Pola desno"
+msgstr "Oikeanpuoleinen puolisko."
 
 #: gettingstarted.html:1658
 msgid "Half bottom."
-msgstr "Pola dole"
+msgstr "Alaosan puolisko."
 
 #: gettingstarted.html:1668
 msgid "Half left."
-msgstr "Pola levo"
+msgstr "Vasemmanpuoleinen puolisko."
 
 #: gettingstarted.html:1676
 msgid "5"
@@ -1719,11 +1750,11 @@ msgstr "5"
 
 #: gettingstarted.html:1678
 msgid "Toggle maximize."
-msgstr "Promeni maksimizaciju"
+msgstr "Suurentamisen vaihtelu."
 
 #: gettingstarted.html:1687
 msgid "Update shortcuts in the Settings App"
-msgstr "Update prečica u Settings App"
+msgstr "Päivitä oikopolut Asetukset-sovelluksessa"
 
 #: gettingstarted.html:1709
 msgid ""
@@ -1731,143 +1762,149 @@ msgid ""
 "another. This information is useful when providing support to ensure "
 "hardware and software works on your machine."
 msgstr ""
-"Vaš kompjuter je sastavljen iz različitih komponenti koje komuniciraju jedna"
-" sa drugom. Ova informacija je korisnika kada se pruža podrška kako bi se "
-"osiguralo da hardware i software rade na vašem kompjuteru."
+"Tietokoneesi koostuu useista osasista jotka keskustelevat keskenään. Tämä "
+"tieto on hyödyllistä antaessa tukea laitteiston ja ohjelmiston välisen "
+"toimivuuden varmistamista varten tietokoneessasi."
 
 #: gettingstarted.html:1717
 msgid "Gathering Information.."
-msgstr "Skupljanje informacija..."
+msgstr "Kerätään tietoa.."
 
 #: gettingstarted.html:1726
 msgid "System"
-msgstr "Sistem"
+msgstr "Järjestelmä"
 
 #: gettingstarted.html:1729
 msgid "Distribution:"
-msgstr "Distribucija:"
+msgstr "Jakelu:"
 
 #: gettingstarted.html:1733
 msgid "Kernel:"
-msgstr "Kernel:"
+msgstr "Ydin:"
 
 #: gettingstarted.html:1737
 msgid "The Linux kernel is the heart of Ubuntu."
-msgstr "Linux kernel je srce Ubunta."
+msgstr "Linux-ydin on Ubuntu:n sydän."
 
 #: gettingstarted.html:1743
 msgid "Motherboard:"
-msgstr "Matična ploča:"
+msgstr "Emolevy:"
 
 #: gettingstarted.html:1747
 msgid "Boot Mode:"
-msgstr "Boot Mode:"
+msgstr "Käynnistysmoodi:"
 
 #: gettingstarted.html:1751
 msgid "Displays the mode that OS is communicating with the firmware."
-msgstr "Prikazuje mode u kome OS komunicira sa firmware-om."
+msgstr ""
+"Ilmaisee tilan jolla käyttöjärjestelmä keskustelee firmware-laiteajurin "
+"kanssa."
 
 #: gettingstarted.html:1759
 msgid "Processor"
-msgstr "Procesor"
+msgstr "Suoritin"
 
 #: gettingstarted.html:1762
 msgid "Model:"
-msgstr "Model:"
+msgstr "Malli:"
 
 #: gettingstarted.html:1766
 msgid "Speed:"
-msgstr "Brzina:"
+msgstr "Nopeus:"
 
 #: gettingstarted.html:1770
 msgid "Architecture in use:"
-msgstr "Arhitektura u uptorebi:"
+msgstr "Käytössä oleva arkkitehtuuri:"
 
 #: gettingstarted.html:1774
 msgid ""
 "The operating system's architecture in use. For instance, i386 = 32-bit."
-msgstr "Arhitektura trenutno u upotrebi. Na primer i386 = 32-bit."
+msgstr ""
+"Käyttöjärjestelmän käyttämä arkkitehtuuri. Esimerkiksi, i386 = 32-bit."
 
 #: gettingstarted.html:1780
 msgid "Architecture(s) supported:"
-msgstr "Podržane arhitekture:"
+msgstr "Tuettu (tai tuetut) arkkitehtuurit:"
 
 #: gettingstarted.html:1784
 msgid "Architectures that are supported by this processor."
-msgstr "Arhitekture koje su podržane od strane ovog procesora"
+msgstr "Tämän suorittimen tukemat arkkitehtuurit."
 
 #: gettingstarted.html:1792
 msgid "Components"
-msgstr "Komponente"
+msgstr "Osat"
 
 #: gettingstarted.html:1795
 msgid "Memory (RAM):"
-msgstr "Memorija (RAM):"
+msgstr "Muisti (RAM-keskusmuisti):"
 
 #: gettingstarted.html:1799
 msgid "More RAM allows more applications to run simultaneously."
-msgstr "Više RAM-a vam dopušta da pokrenete više aplikacija istovremeno."
+msgstr ""
+"Mitä enemmän RAM-keskusmuistia, sitä enemmän sovelluksia voidaan ajaa "
+"samanaikaisesti."
 
 #: gettingstarted.html:1805
 msgid "Graphics:"
-msgstr "Grafika:"
+msgstr "Grafiikka:"
 
 #: gettingstarted.html:1809
 msgid "Internet Access:"
-msgstr "Internet pristup:"
+msgstr "Internet-yhteys:"
 
 #: gettingstarted.html:1812
 msgid "Connected"
-msgstr "Konektovan"
+msgstr "Yhdistetty"
 
 #: gettingstarted.html:1813
 msgid "Not Connected"
-msgstr "Diskonektovan"
+msgstr "Ei yhdistetty"
 
 #: gettingstarted.html:1821
 msgid "Storage"
-msgstr "Skladište"
+msgstr "Levytila"
 
 #: gettingstarted.html:1825
 msgid "Root File System:"
-msgstr "Root fajl sistem:"
+msgstr "Root-juuri-tiedostojärjestelmä:"
 
 #: gettingstarted.html:1829
 msgid "The file system where OS is installed."
-msgstr "Fajl sistem gde je OS instaliran."
+msgstr "Tiedostojärjestelmä johon käyttöjärjestelmä on asennettu."
 
 #: gettingstarted.html:1835
 msgid "Entire Disk Capacity:"
-msgstr "Čitav kapacitet hard diska:"
+msgstr "Levytila kokonaisuudessaan:"
 
 #: gettingstarted.html:1841
 msgid "OS Usage"
-msgstr "OS Upotreba"
+msgstr "Käyttöjärjestelmän käyttämä tila"
 
 #: gettingstarted.html:1846
 msgid "Other Usage"
-msgstr "Druga upotreba:"
+msgstr "Muu käyttö"
 
 #: gettingstarted.html:1851
 msgid "Allocated for <span name=\"distro-name\"></span>:"
-msgstr "Alocirano za <span name=\"distro-name\"></span>:"
+msgstr "Varattu kohteelle <span name=\"distro-name\"></span>:"
 
 #: gettingstarted.html:1855
 msgid "The size of your operating system partition."
-msgstr "Veličina particije vašeg operativnog sistema"
+msgstr "Käyttöjärjestelmäosiosi koko."
 
 #: gettingstarted.html:1862
 msgid "Used Space:"
-msgstr "Iskorišćen prostor:"
+msgstr "Käytetty tila:"
 
 #: gettingstarted.html:1870
 msgid "Free Space:"
-msgstr "Slobodan prostor:"
+msgstr "Vapaata tilaa:"
 
 #: gettingstarted.html:1878
 msgid "Other Usage:"
-msgstr "Druga upotreba:"
+msgstr "Muu käyttö:"
 
 #: gettingstarted.html:1883
 msgid "Reserved by system, other partitions, unallocated or swap."
-msgstr "Rezervisano od sistema, drugih particija, nelocirano ili swap."
+msgstr ""
+"Järjestelmän varaama, muut osiot, varaamattomat tai swap-heittovaihto-osio."
