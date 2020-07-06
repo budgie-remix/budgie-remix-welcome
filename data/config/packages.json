@@ -559,6 +559,13 @@
       },
       "key-commands": ["wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key add -"]
     },
+    "brave": {
+      "packages": ["brave-browser"],
+      "repos": {
+        "all": ["deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"]
+      },
+      "key-commands": ["curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -"]
+    },
     "opera": {
       "snap": ["opera"]
     },
