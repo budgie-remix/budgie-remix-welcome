@@ -206,6 +206,13 @@ class AppView(WebKit2.WebView):
                 app.update_page('.before2004', 'hide')
                 app.update_page('.after1910', 'show')
 
+            for layout in ["ubuntubudgie", "classicubuntubudgie", "redmond", "traditional", "theone", "cupertino"]:
+                if self._have_panel_backup(layout):
+                    action = "show"
+                else:
+                    action = "hide"
+                app.update_page('#' + layout + '-layout-undo', action)
+
         if current_page in ['introduction', 'features', 'community', 'recommendations', 'gettingstarted']:
             if systemstate.official:
                 app.update_page('.official-only', 'show')
@@ -358,6 +365,15 @@ class AppView(WebKit2.WebView):
         elif uri.startswith('layout?'):
             layout = uri[7:]
             self._apply_layout(layout)
+            self._push_config()
+        elif uri.startswith('layout-undo?'):
+            layout = uri[12:]
+            def do_undo():
+                self._undo_layout(layout)
+                self._push_config()
+
+            Thread(target=do_undo).start()
+
         elif uri.startswith('install?'):
             code = uri[8:]
 
@@ -754,9 +770,60 @@ class AppView(WebKit2.WebView):
                 raise
             print('client: No one can hear me!!')
         else:
+            self._backup_panel(layout)
             iface = dbus.Interface(proxy, ECHO_INTERFACE)
-
             iface.ResetLayout(layout)
+
+    def _have_panel_backup(self, layout):
+        settingspath = os.path.join(
+            os.environ["HOME"], ".config", "budgie-welcome")
+
+        return os.path.exists(settingspath +
+            "/budgie-dconf-dump." +
+            layout)
+
+    def _undo_layout(self, layout):
+        settingspath = os.path.join(
+            os.environ["HOME"], ".config", "budgie-welcome")
+
+        myinput = open(settingspath +
+            "/budgie-dconf-dump." +
+            layout, "r")
+
+        instruct = ['dconf',
+            'load',
+            '/com/solus-project/']
+
+        p = subprocess.Popen(instruct, stdin=myinput)
+        retval = p.wait()
+        myinput.close()
+        p = subprocess.Popen(['budgie-panel', '--replace', '&'])
+        #p.wait()
+        gsettings = Gio.Settings.new("com.solus-project.budgie-panel")
+        gsettings.set_string("layout", layout)
+
+        os.remove(settingspath +
+            "/budgie-dconf-dump." +
+            layout)
+
+    def _backup_panel(self, layout):
+        settingspath = os.path.join(
+            os.environ["HOME"], ".config", "budgie-welcome")
+        try:
+            os.makedirs(settingspath)
+        except FileExistsError:
+            pass
+
+        instruct = ['dconf',
+            'dump',
+            '/com/solus-project/']
+
+        myoutput = open(settingspath +
+            "/budgie-dconf-dump." +
+            layout, "w")
+        p = subprocess.Popen(instruct, stdout=myoutput)
+        retval = p.wait()
+        myoutput.close()
 
     def _set_panel_key(self, key, value):
         # panel keys are relocatable - so need to loop through all panels

@@ -371,7 +371,7 @@
                      </div>
                   </div>
                </div>
-               <div class="tab-pane" id="layout" role="tabpanel">
+               <div class="tab-pane hidden" id="layout" role="tabpanel">
                   <br>
                   <div class="row">
                      <div class="col-md-12">
@@ -396,6 +396,11 @@
                         <i class="material-icons">&#xE862;</i>&nbsp;
                         <span class="button-text">&zwnj;Apply layout&zwnj;</span>
                         </a>
+
+                        <a id="ubuntubudgie-layout-undo" class="btn btn-success layout-undo hidden" onclick="cmd('layout-undo?ubuntubudgie');cmd('')">
+                        <span class="button-text">&zwnj;Undo&zwnj;</span>
+                        </a>
+
                         <br>
                         <span id="ubuntubudgie-layout-status" class="hidden">
                         <img src="img/welcome/processing.gif" style="height: 24px"/>
@@ -506,7 +511,7 @@
 
 
                </div>
-               <div class="tab-pane" id="settings" role="tabpanel">
+               <div class="tab-pane hidden" id="settings" role="tabpanel">
                   <br>
                   <div class="row">
                      <div class="col-md-12">
