@@ -806,7 +806,7 @@ class AppView(WebKit2.WebView):
             "/budgie-dconf-dump." +
             layout)
 
-    def _backup_panel(self, layout):
+    def __backup_dconf(self, path, filename):
         settingspath = os.path.join(
             os.environ["HOME"], ".config", "budgie-welcome")
         try:
@@ -816,14 +816,33 @@ class AppView(WebKit2.WebView):
 
         instruct = ['dconf',
             'dump',
-            '/com/solus-project/']
+            path]
 
         myoutput = open(settingspath +
-            "/budgie-dconf-dump." +
-            layout, "w")
+            filename, "w")
         p = subprocess.Popen(instruct, stdout=myoutput)
         retval = p.wait()
         myoutput.close()
+
+    def _backup_panel(self, layout):
+        filename = settingspath +
+            "/budgie-dconf-dump." +
+            layout
+
+        self.__backup_dconf('/com/solus-project/', filename)
+
+    def _backup_plank(self, layout):
+        plank_global_path="/usr/share/applications/plank.desktop"
+
+        filepath = Gio.File.new_for_path(plank_global_path)
+        if not filepath.query_exists(None):
+            return
+
+        filename = settingspath +
+            "/plank-dconf-dump." +
+            layout
+
+        self.__backup_dconf('/net/launchpad/plank/', filename)
 
     def _set_panel_key(self, key, value):
         # panel keys are relocatable - so need to loop through all panels
