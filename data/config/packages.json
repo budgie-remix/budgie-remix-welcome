@@ -1,4 +1,7 @@
 {
+  "gaming": {
+    
+  },
   "budgie-applets": {
     "haste-applet": {
       "packages": ["budgie-haste-applet"],
