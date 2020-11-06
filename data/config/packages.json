@@ -1,6 +1,11 @@
 {
   "gaming": {
-    
+    "lutris": {
+      "packages": ["lutris"],
+      "repos": {
+        "all": ["ppa:lutris-team/lutris"]
+      }
+    }
   },
   "budgie-applets": {
     "haste-applet": {
