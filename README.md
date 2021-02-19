@@ -53,4 +53,4 @@ change "pl" to your language i18n shortcode
 
 ### LICENSES
   The project contains files with a variety of licenses.
-  For the complete list of licenses, see [debian/copyright](https://github.com/budgie-remix/budgie-welcome/blob/master/debian/copyright) file.
+  For the complete list of licenses, see [debian/copyright](https://github.com/UbuntuBudgie/budgie-welcome/blob/master/debian/copyright) file.

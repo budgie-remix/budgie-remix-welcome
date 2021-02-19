@@ -3,11 +3,11 @@
  "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
  "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
 <policyconfig>
-  <vendor>budgie-remix</vendor>
+  <vendor>Ubuntu Budgie</vendor>
   <vendor_url>http://hal.freedesktop.org/docs/PolicyKit/</vendor_url>
 
   <action id="org.budgie.welcome">
-    <description>budgie-remix privileged actions utility</description>
+    <description>Ubuntu Budgie privileged actions utility</description>
     <message>Helper utility that will allow budgie-welcome to perform privileged actions</message>
     <icon_name>system-run</icon_name>
     <defaults>

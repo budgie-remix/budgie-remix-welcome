@@ -5,7 +5,7 @@
 # Copyright 2013 "Manjaro Linux" <support@manjaro.org>
 # Copyright 2014 Antergos
 # Copyright 2016 Ubuntu Mate
-# Copyright 2016-2019 Ubuntu Budgie Developers
+# Copyright 2016-2021 Ubuntu Budgie Developers
 #
 # budgie-welcome is free software: you can redistribute it and/or modify
 # it under the temms of the GNU General Public License as published by
@@ -21,7 +21,7 @@
 # along with Ubuntu Budgie welcome. If not, see <http://www.gnu.org/licenses/>.
 #
 
-""" Welcome App for Ubuntu Budgie and budgie-remix """
+""" Welcome App for Ubuntu Budgie """
 
 import re
 import apt
