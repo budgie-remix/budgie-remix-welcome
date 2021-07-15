@@ -1,4 +1,19 @@
 {
+  "gaming": {
+    "lutris": {
+      "packages": ["lutris"],
+      "repos": {
+        "all": ["ppa:lutris-team/lutris"]
+      }
+    },
+    "steam": {
+      "packages": ["steam-launcher"],
+      "repos": {
+        "all": ["deb [arch=amd64,i386] http://repo.steampowered.com/steam/ precise steam"]
+      },
+      "key-commands": ["apt-key adv --keyserver keyserver.ubuntu.com --recv-keys B05498B7"]
+    }
+  },
   "budgie-applets": {
     "haste-applet": {
       "packages": ["budgie-haste-applet"],
